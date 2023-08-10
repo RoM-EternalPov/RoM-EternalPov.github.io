@@ -4,8 +4,8 @@
 remote_theme: LeakyAbstractions/pretty-docs
 url: https://RoM-EternalPov.github.io
 baseurl: /
-title: &site_title Pretty Docs
-description: &site_description Free Bootstrap theme for your project documentation
+title: &site_title RoM Eternal PoV
+description: &site_description Guides Collection about Ragnarok Mobil Eternal Love (EU)
 branding:
   icon:
     name: icon_documents_alt
@@ -27,11 +27,11 @@ kramdown:
 # Owner
 #
 owner:
-  name: Guillermo Calvo
-  twitter: &site_owner_twitter gcalvo
+  name: S0me_b0dy
+  twitter: &site_owner_twitter 
   copyright:
-    notice: Lorem Ipsum
-    author: "[Guillermo Calvo](https://guillermo.in/)"
+    notice: 2gether, hit harder
+    author: "[Template Auhtor : Guillermo Calvo](https://guillermo.in/)"
 
 
 #
@@ -64,11 +64,6 @@ share:
     repo: LeakyAbstractions/pretty-docs
     position: right
     color: red
-
-
-# Google Analytics
-google_analytics: UA-61670496-5
-
 
 #
 # Collections
