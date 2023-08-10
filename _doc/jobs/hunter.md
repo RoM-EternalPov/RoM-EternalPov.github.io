@@ -1,12 +1,12 @@
 ---
 title: Hunter
 sections:
-  - [PvE] Build AA Crit
-  - [PvP] Build AA Crit
-  - [PvE & PvP] Build TrapBurst
+  - PvE - Build AA Crit
+  - PvP - Build AA Crit
+  - PvE & PvP - Build TrapBurst
 ---
 
-### [PvE] Build AA Crit 
+### PvE - Build AA Crit 
 
 #### Stuff
 
@@ -18,7 +18,7 @@ sections:
 
 #### Relics and others tips
 
-### [PvP] Build AA Crit
+### PvP - Build AA Crit
 
-### [PvE & PvP] Build TrapBurst
+### PvE & PvP - Build TrapBurst
 
