@@ -1,7 +1,6 @@
 ---
-title: Quick Start
-excerpt: Demo example, consectetuer adipiscing elit
-date: 2016-01-25
+title: Jobs
+excerpt: Build, stats, runes, tips and more
 icon:
   type: fa
   name: fa-paper-plane
