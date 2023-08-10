@@ -8,11 +8,17 @@ sections:
 
 ### PvE - Build AA Crit 
 
-#### Stuff
+<div class="row">
 
-<img src="https://github.com/RoM-EternalPov/RoM-EternalPov.github.io/blob/gh-pages/assets/images/jobs/hunter/Hunter_PvE_AA_Crit_Build.png?raw=true"
-     width="1080" 
-     height="400" />
+ <div class="col-md-6 col-sm-12 col-sm-12">
+
+##### Stuff
+
+  <div class="screenshot-holder">
+   <a href="assets/images/jobs/hunter/Hunter_PvE_AA_Crit_Build.png" data-title="Build PvE - AA / Crit Hunter" data-toggle="lightbox"><img class="img-responsive" src="assets/images/jobs/hunter/Hunter_PvE_AA_Crit_Build-thumb.png" alt="screenshot" /></a>
+   <a class="mask" href="assets/images/jobs/hunter/Hunter_PvE_AA_Crit_Build.png" data-title="Build PvE - AA / Crit Hunter" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+  </div>
+ </div>
 
 #### Stats
 
