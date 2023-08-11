@@ -6,7 +6,7 @@ tagline: |
   
   Written with *&nbsp;*{: .fa .fa-heart} for RoM players!
   
-heading: Getting started is easy!
+heading: Play for fun and growth to cum!
 navigation:
   - /start
   - /components
