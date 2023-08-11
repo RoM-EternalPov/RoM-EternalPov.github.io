@@ -2,11 +2,10 @@
 layout: home
 title: Home
 tagline: |
-  Free Bootstrap theme for your project documentation
+  Together, we hit harder!
   
-  Designed with *&nbsp;*{: .fa .fa-heart} for developers
+  Written with *&nbsp;*{: .fa .fa-heart} for RoM players!
   
-  Ready to use in *&nbsp;*{: .fa .fa-github} Github Pages
 heading: Getting started is easy!
 navigation:
   - /start
@@ -20,9 +19,9 @@ navigation:
   - /legal
 ---
 
-Welcome to prettyDocs.
-This landing page is an example of how you can use a card view to present segments of your documentation.
-You can customise the icon fonts based on your needs.
+Bienvenue sur RoM Eternal PoV!
+Ce site basé sur le template Jekyll "leakyabstractions/pretty-docs" regroupe divers documentations et guides pour le jeu mobile
+Ragnarok M : Eternal Love (EU)
 
 <div class="cta-container">
 
