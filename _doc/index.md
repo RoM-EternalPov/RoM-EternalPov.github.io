@@ -12,9 +12,9 @@ navigation:
   - /routines
   - /quests
   - /donjons
-  - /food
-  - /war
   - /pvp
+  - /war
+  - /food
   - /other
   - /comingsoon
 ---
