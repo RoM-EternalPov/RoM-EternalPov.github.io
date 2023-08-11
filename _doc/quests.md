@@ -2,7 +2,8 @@
 title: Quests
 excerpt: Quests tips, secrets and more...
 icon:
-  name: icon_datareport_alt
+  type: fa
+  name: fa-wrench
 color: blue
 sections:
   - /
