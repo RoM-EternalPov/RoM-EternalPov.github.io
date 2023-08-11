@@ -5,5 +5,6 @@ excerpt: Coming Soon
 icon:
   name: fa fa-newspaper-o
 color: green
-layout: news
+sections:
+  - /
 ---
