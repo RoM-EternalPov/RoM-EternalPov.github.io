@@ -15,8 +15,8 @@ navigation:
   - /food
   - /war
   - /pvp
-  - /community
-  - /legal
+  - /other
+  - /comingsoon
 ---
 
 Bienvenue sur RoM Eternal PoV!
