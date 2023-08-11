@@ -2,7 +2,8 @@
 title: Food
 excerpt: Coming Soon
 icon:
-  name: icon_genius
+  type: fa
+  name: fa-pizza-slice
 color: primary
 sections:
   - /
