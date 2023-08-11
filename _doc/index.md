@@ -8,7 +8,7 @@ tagline: |
   
 heading: Play for fun and growth to cum!
 navigation:
-  - /start
+  - /jobs
   - /components
   - /charts
   - /faqs
