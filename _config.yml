@@ -8,7 +8,8 @@ title: &site_title RoM Eternal PoV
 description: &site_description Guides Collection about Ragnarok Mobil Eternal Love (EU)
 branding:
   icon:
-    name: icon_documents_alt
+    type: fa
+    name: fa-unlink
   highlight: RoM
   bold: Eternal PoV
 markdown: kramdown
