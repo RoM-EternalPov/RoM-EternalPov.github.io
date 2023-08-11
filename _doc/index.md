@@ -11,8 +11,8 @@ navigation:
   - /jobs
   - /routines
   - /quests
-  - /faqs
-  - /showcase
+  - /donjons
+  - /food
   - /credits
   - /news
   - /community
