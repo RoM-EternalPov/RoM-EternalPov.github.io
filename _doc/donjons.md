@@ -2,7 +2,8 @@
 title: Donjons
 excerpt: Coming soon
 icon:
-  name: icon_lifesaver
+  type: fa
+  name: fa-empire
 color: purple
 sections:
   - /
