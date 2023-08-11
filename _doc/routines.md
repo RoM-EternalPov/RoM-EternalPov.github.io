@@ -2,7 +2,8 @@
 title: Routines
 excerpt: Daily and Weekly quest
 icon:
-  name: icon_puzzle_alt
+  type: fa
+  name: fa-history
 color: pink
 sections:
   - /
