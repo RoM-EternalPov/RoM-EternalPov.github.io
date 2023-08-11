@@ -9,8 +9,8 @@ description: &site_description Guides Collection about Ragnarok Mobil Eternal Lo
 branding:
   icon:
     name: icon_documents_alt
-  highlight: Pretty
-  bold: Docs
+  highlight: RoM
+  bold: Eternal PoV
 markdown: kramdown
 kramdown:
   auto_ids: true
