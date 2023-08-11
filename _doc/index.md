@@ -13,8 +13,8 @@ navigation:
   - /quests
   - /donjons
   - /food
-  - /credits
-  - /news
+  - /war
+  - /pvp
   - /community
   - /legal
 ---
