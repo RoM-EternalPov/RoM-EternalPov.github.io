@@ -34,13 +34,19 @@ sections:
 
 ### Stuff
 
-Coming Soon
+<img src="../../../assets/images/jobs/heros/thanatos/Stuff_DPS_PvE.png" style="max-width: 100%; height: auto;" alt="Stuff DPS PvE" />
+
+<img src="../../../assets/images/jobs/heros/thanatos/Stuff_DPS_PvE_Alt.png" style="max-width: 100%; height: auto;" alt="Stuff Alt DPS PvE" />
+
+<img src="../../../assets/images/jobs/heros/thanatos/Stuff_DPS_PvE_Water.png" style="max-width: 100%; height: auto;" alt="Stuff Water DPS PvE" />
 
 ### Shadow Equipments
 
-Coming Soon
+<img src="../../../assets/images/jobs/heros/thanatos/Ghost_Stuff_DPS_PvE.png" style="max-width: 100%; height: auto;" alt="Ghost Stuff DPS PvE" />
 
 ### Relics
+
+Coming Soon
 
 ### Runes
 
@@ -61,8 +67,23 @@ Pour les élément priorisé : <font color="yellow"><b>Water en priorité, fire,
 <div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
 </div><div class="content">
 {: .callout-title}
-#### Foods
+#### Foods - General
 
-Coming Soon
+Pour un Maximum de DPS, n'hésiter pas à prendre une <font color="red"><b>Expert Precision Stone</b></font> ainsi qu'une <font color="red"><b>Rapid Atk Alloy</b></font>
 
 </div></div>
+
+<img src="../../../assets/images/jobs/heros/thanatos/food.png" style="max-width: 100%; height: auto;" alt="Food" />
+
+
+<div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
+</div><div class="content">
+{: .callout-title}
+#### Foods - Water build
+
+Pour jouer Thanatos en Water, il faut utiliser la pierre d'enchant <font color="red"><b>Mystic Frozen</b></font> qui vous enchantera pendant 15minutes. Vous pouvez égallement prendre une <font color="red"><b>Ic Controlling Alloy</b></font> pour un maximum de DPS.
+
+</div></div>
+
+
+<img src="../../../assets/images/jobs/heros/thanatos/food_water.png" style="max-width: 100%; height: auto;" alt="Food Water" />
