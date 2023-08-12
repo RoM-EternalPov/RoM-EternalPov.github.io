@@ -67,8 +67,8 @@ Les trois runes suivantes sont indispensables pour assurer un maximum de DPS.
 {: .callout-title}
 #### Praying Cards
 
-Offensivement priorisé : <font color="red">Atk , Refine Attack, Neutral Atk, Crit.Dmg et Pen</font>
-Pour les élément priorisé : <font color="yellow">Fire, Water, Wind, Earth</font>
+Offensivement priorisé : <font color="red"><b>Atk , Refine Attack, Neutral Atk, Crit.Dmg et Pen</b></font><br>
+Pour les élément priorisé : <font color="yellow"><b>Fire, Water, Wind, Earth</b></font>
 
 </div></div>
 
