@@ -10,6 +10,9 @@ sections:
 
 ### Stats
 
+* 165 Critical (Pour instances Legend)
+* 300-315% Critical Dmg
+
 ### Skills
 
 ### Stuff
