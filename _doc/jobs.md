@@ -5,6 +5,6 @@ icon:
   type: fa
   name: fa-user-secret
 color: green
-sections:
-  - jobs2.md
+navigation:
+  - /jobs2.md
 ---
