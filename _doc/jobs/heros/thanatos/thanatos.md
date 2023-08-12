@@ -5,9 +5,9 @@ sections:
 ---
 
 ### Build PvE DPS
-
+<br>
 ### Stats
-
+<br>
 <table width="100%" border="1" cellspacing="1" cellpadding="1" >
 <tr><td><div align="center"><b>Stat</b></div> </td>
 <td><div align="center"><b>Montant</b></div> </td>
@@ -33,8 +33,8 @@ sections:
 </table>
 
 ### Stuff
-
-<img src="../../../assets/images/jobs/heros/thanatos/Stuff_DPS_PvE.png" style="max-width: 100%; height: auto;" alt="Stuff DPS PvE" />
+<br>
+<img src="../../../assets/images/jobs/heros/thanatos/Stuff_DPS_PvE.png" style="max-width: 100%; height: auto;" alt="Stuff DPS PvE" /><br>
 
 <div class="callout-block callout-success"><div class="icon-holder">*&nbsp;*{: .fa .fa-thumbs-up}
 </div><div class="content">
@@ -46,7 +46,7 @@ En end game, est altérnativement, vous pouvez utiliser une <font color="red"><b
 </div></div>
 
 
-<img src="../../../assets/images/jobs/heros/thanatos/Stuff_DPS_PvE_Alt.png" style="max-width: 100%; height: auto;" alt="Stuff Alt DPS PvE" />
+<img src="../../../assets/images/jobs/heros/thanatos/Stuff_DPS_PvE_Alt.png" style="max-width: 100%; height: auto;" alt="Stuff Alt DPS PvE" /><br>
 
 <div class="callout-block callout-success"><div class="icon-holder">*&nbsp;*{: .fa .fa-thumbs-up}
 </div><div class="content">
@@ -57,22 +57,22 @@ Si vous jouez Thanatos Water, vous devirez optez pour 2x <font color="red"><b>Fl
 
 </div></div>
 
-<img src="../../../assets/images/jobs/heros/thanatos/Stuff_DPS_PvE_Water.png" style="max-width: 100%; height: auto;" alt="Stuff Water DPS PvE" />
+<img src="../../../assets/images/jobs/heros/thanatos/Stuff_DPS_PvE_Water.png" style="max-width: 100%; height: auto;" alt="Stuff Water DPS PvE" /><br>
 
 ### Shadow Equipments
-
-<img src="../../../assets/images/jobs/heros/thanatos/Ghost_Stuff_DPS_PvE.png" style="max-width: 100%; height: auto;" alt="Ghost Stuff DPS PvE" />
+<br>
+<img src="../../../assets/images/jobs/heros/thanatos/Ghost_Stuff_DPS_PvE.png" style="max-width: 100%; height: auto;" alt="Ghost Stuff DPS PvE" /><br>
 
 ### Relics
-
+<br>
 Coming Soon
 
 ### Runes
-
+<br>
 Coming Soon
 
 ### Praying & Others
-
+<br>
 <div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
 </div><div class="content">
 {: .callout-title}
