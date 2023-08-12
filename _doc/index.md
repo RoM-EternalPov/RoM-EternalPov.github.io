@@ -8,7 +8,7 @@ tagline: |
   
 heading: Play for fun and growth to cum!
 navigation:
-  - /jobs
+  - /jobs2
   - /routines
   - /quests
   - /donjons
