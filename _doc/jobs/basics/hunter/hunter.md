@@ -14,6 +14,18 @@ sections:
 <tr><td><div align="center"><b>Stat</b></div> </td>
 <td><div align="center"><b>Montant</b></div> </td>
 <td><div align="center"><b>Infos</b></div> </td></tr>
+<tr><td><div align="center"><b>AGI</b></div> </td>
+<td><div align="center"><font color="red"><b>~90</b></font></div> </td>
+<td><div align="center"><font color="green"><b>A monter jusqu à atteindre 480% Move Speed (avec ou sans food/meal)</b></font></div> </td></tr>
+<tr><td><div align="center"><b>DEX</b></div> </td>
+<td><div align="center"><font color="red"><b>159</b></font></div> </td>
+<td><div align="center"></div> </td></tr>
+<tr><td><div align="center"><b>LUK</b></div> </td>
+<td><div align="center"><font color="red"><b>~90</b></font></div> </td>
+<td><div align="center"><font color="green"><b>A monter jusqu à atteindre 150-165 Critical</b></font></div> </td></tr>
+<tr><td><div align="center"><b>VIT</b></div> </td>
+<td><div align="center"><font color="red"><b>~140</b></font></div> </td>
+<td><div align="center"><font color="green"><b>Si vous souhaitez un peut de tankiness</b></font></div> </td></tr>
 <tr><td><div align="center"><b>Critical</b></div> </td>
 <td><div align="center"><font color="red"><b>165</b></font></div> </td>
 <td><div align="center"><font color="green"><b>Pour instances Legend</b></font></div> </td></tr>
