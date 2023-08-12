@@ -10,8 +10,21 @@ sections:
 
 ### Stats
 
-* 165 Critical (Pour instances Legend)
-* 300-315% Critical Dmg
+<table width="100%" border="1" cellspacing="1" cellpadding="1" >
+<tr><td><div align="center">Stat</div> </td>
+<td><div align="center">Montant</div> </td>
+<td><div align="center">Infos</div> </td></tr>
+</table>
+<table width="100%" border="1" cellspacing="1" cellpadding="1" >
+<tr><td><div align="center">Critical</div> </td>
+<td><div align="center">165</div> </td>
+<td><div align="center">Pour instances Legend</div> </td></tr>
+</table>
+<table width="100%" border="1" cellspacing="1" cellpadding="1" >
+<tr><td><div align="center">Critical DMG</div> </td>
+<td><div align="center">300-315%</div> </td>
+<td><div align="center"></div> </td></tr>
+</table>
 
 ### Skills
 
