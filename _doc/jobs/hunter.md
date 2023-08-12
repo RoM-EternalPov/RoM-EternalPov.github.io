@@ -11,13 +11,13 @@ sections:
 ### Stats
 
 <table width="100%" border="1" cellspacing="1" cellpadding="1" >
-<tr><td><div align="center">Stat</div> </td>
-<td><div align="center">Montant</div> </td>
-<td><div align="center">Infos</div> </td></tr>
-<tr><td><div align="center">Critical</div> </td>
+<tr><td><div align="center"><b>Stat</b></div> </td>
+<td><div align="center"><b>Montant</b></div> </td>
+<td><div align="center"><b>Infos</b>b></div> </td></tr>
+<tr><td><div align="center"><b>Critical</b></div> </td>
 <td><div align="center">165</div> </td>
 <td><div align="center">Pour instances Legend</div> </td></tr>
-<tr><td><div align="center">Critical DMG</div> </td>
+<tr><td><div align="center"><b>Critical DMG</b></div> </td>
 <td><div align="center">300-315%</div> </td>
 <td><div align="center"></div> </td></tr>
 </table>
