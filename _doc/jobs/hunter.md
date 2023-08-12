@@ -10,4 +10,4 @@ sections:
 
 ### Stuff
 
-<img src="../../assets/images/jobs/hunter/Hunter_PvE_AA_Crit_Build.png" max-width=100% height=auto alt="Stuff AA Crit" />
+<img src="../../assets/images/jobs/hunter/Hunter_PvE_AA_Crit_Build.png" style="max-width: 100%; height: auto;" alt="Stuff AA Crit" />
