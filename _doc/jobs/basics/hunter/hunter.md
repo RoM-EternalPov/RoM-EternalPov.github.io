@@ -73,7 +73,7 @@ Coming Soon
 
 ### Relics
 
-<img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/relics.png" style="max-width: 100%; height: auto;" alt="Relics Mid Game AA Crit" />
+<img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/relics.png" style="max-width: 100%; height: auto;" alt="Relics AA Crit" />
 
 
 ### Runes
