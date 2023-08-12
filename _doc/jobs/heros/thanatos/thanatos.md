@@ -23,7 +23,7 @@ sections:
 <td><div align="center"><font color="green"><b></b></font></div> </td></tr>
 <tr><td><div align="center"><b>Ignore Def</b></div> </td>
 <td><div align="center"><font color="red"><b>200%</b></font></div> </td>
-<td><div align="center"><font color="green"><b>Pour instance Legend</b></font></div></td></tr>
+<td><div align="center"><font color="green"><b>Pour instance Legend, autrement 180%</b></font></div></td></tr>
 <tr><td><div align="center"><b>Skill DMG</b></div> </td>
 <td><div align="center"><font color="red"><b>50%</b></font></div> </td>
 <td><div align="center"><font color="green"><b></b></font></div></td></tr>
