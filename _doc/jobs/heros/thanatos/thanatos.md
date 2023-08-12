@@ -36,7 +36,26 @@ sections:
 
 <img src="../../../assets/images/jobs/heros/thanatos/Stuff_DPS_PvE.png" style="max-width: 100%; height: auto;" alt="Stuff DPS PvE" />
 
+<div class="callout-block callout-success"><div class="icon-holder">*&nbsp;*{: .fa .fa-thumbs-up}
+</div><div class="content">
+{: .callout-title}
+#### Stuff Alternatif
+
+En end game, est altérnativement, vous pouvez utiliser une <font color="red"><b>Vodoo Armor</b></font> avec une random stat <font color="red"><b>Phy Pen 15%</b></font>. Ainsi que les <font color="red"><b>Lune's Memorial</b></font> avec la random stat <font color="red"><b>Pen 6%</b></font>.
+
+</div></div>
+
+
 <img src="../../../assets/images/jobs/heros/thanatos/Stuff_DPS_PvE_Alt.png" style="max-width: 100%; height: auto;" alt="Stuff Alt DPS PvE" />
+
+<div class="callout-block callout-success"><div class="icon-holder">*&nbsp;*{: .fa .fa-thumbs-up}
+</div><div class="content">
+{: .callout-title}
+#### Stuff Water
+
+Si vous jouez Thanatos Water, vous devirez optez pour 2x <font color="red"><b>Fluorite Button</b> avec la random stat <font color="red"><b>Water ATK 12%</b></font>
+
+</div></div>
 
 <img src="../../../assets/images/jobs/heros/thanatos/Stuff_DPS_PvE_Water.png" style="max-width: 100%; height: auto;" alt="Stuff Water DPS PvE" />
 
