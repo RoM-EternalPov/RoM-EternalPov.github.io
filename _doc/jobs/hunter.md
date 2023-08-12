@@ -14,10 +14,10 @@ sections:
 
 ### Runes
 
-<img href="https://raw.githubusercontent.com/RoM-EternalPov/RoM-EternalPov.github.io/gh-pages/assets/images/jobs/hunter/PvE_AA_Crit/runes_0.png" src="../../assets/images/jobs/hunter/PvE_AA_Crit/runes_0.png" style="max-width: 100%; height: 800px;" alt="Runes AA Crit" /><br>
+<img href="https://raw.githubusercontent.com/RoM-EternalPov/RoM-EternalPov.github.io/gh-pages/assets/images/jobs/hunter/PvE_AA_Crit/runes_0.png" src="../../assets/images/jobs/hunter/PvE_AA_Crit/runes_0.png" style="max-width: 100%; height: 600px;" alt="Runes AA Crit" /><br>
 
 <nobr>
-  <img href="https://raw.githubusercontent.com/RoM-EternalPov/RoM-EternalPov.github.io/gh-pages/assets/images/jobs/hunter/PvE_AA_Crit/runes_1.png" src="../../assets/images/jobs/hunter/PvE_AA_Crit/runes_1.png" style="max-width: 100%; height: 500px;" alt="Stuff AA Crit" />
-  <img href="https://raw.githubusercontent.com/RoM-EternalPov/RoM-EternalPov.github.io/gh-pages/assets/images/jobs/hunter/PvE_AA_Crit/runes_2.png" src="../../assets/images/jobs/hunter/PvE_AA_Crit/runes_2.png" style="max-width: 100%; height: 500px;" alt="Stuff AA Crit" />
-  <img href="https://raw.githubusercontent.com/RoM-EternalPov/RoM-EternalPov.github.io/gh-pages/assets/images/jobs/hunter/PvE_AA_Crit/runes_3.png" src="../../assets/images/jobs/hunter/PvE_AA_Crit/runes_3.png" style="max-width: 100%; height: 500px;" alt="Stuff AA Crit" />
+  <img href="https://raw.githubusercontent.com/RoM-EternalPov/RoM-EternalPov.github.io/gh-pages/assets/images/jobs/hunter/PvE_AA_Crit/runes_1.png" src="../../assets/images/jobs/hunter/PvE_AA_Crit/runes_1.png" style="max-width: 100%; height: 300px;" alt="Stuff AA Crit" />
+  <img href="https://raw.githubusercontent.com/RoM-EternalPov/RoM-EternalPov.github.io/gh-pages/assets/images/jobs/hunter/PvE_AA_Crit/runes_2.png" src="../../assets/images/jobs/hunter/PvE_AA_Crit/runes_2.png" style="max-width: 100%; height: 300px;" alt="Stuff AA Crit" />
+  <img href="https://raw.githubusercontent.com/RoM-EternalPov/RoM-EternalPov.github.io/gh-pages/assets/images/jobs/hunter/PvE_AA_Crit/runes_3.png" src="../../assets/images/jobs/hunter/PvE_AA_Crit/runes_3.png" style="max-width: 100%; height: 300px;" alt="Stuff AA Crit" />
 </nobr>
