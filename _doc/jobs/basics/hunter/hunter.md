@@ -36,7 +36,17 @@ sections:
 
 ### Skills
 
-Coming Soon
+#### Archer
+
+<img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/skills_0.png" style="max-width: 100%; height: auto;" alt="Stuff AA Crit" />
+
+#### Hunter
+
+<img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/skills_1.png" style="max-width: 100%; height: auto;" alt="Stuff AA Crit" />
+
+### Ranger
+
+<img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/skills_2.png" style="max-width: 100%; height: auto;" alt="Stuff AA Crit" />
 
 ### Stuff
 
