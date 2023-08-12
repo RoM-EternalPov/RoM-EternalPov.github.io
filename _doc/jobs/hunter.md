@@ -8,9 +8,15 @@ sections:
 
 ### PvE - Build AA Crit 
 
+### Stats
+
+### Skills
+
 ### Stuff
 
 <img src="../../assets/images/jobs/hunter/PvE_AA_Crit/Hunter_PvE_AA_Crit_Build.png" style="max-width: 100%; height: auto;" alt="Stuff AA Crit" />
+
+### Shadow Equipments & Relics
 
 ### Runes
 
