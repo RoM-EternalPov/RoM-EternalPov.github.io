@@ -15,10 +15,10 @@ sections:
 <td><div align="center"><b>Montant</b></div> </td>
 <td><div align="center"><b>Infos</b></div> </td></tr>
 <tr><td><div align="center"><b>Critical</b></div> </td>
-<td><div align="center"><font color="red">165</font></div> </td>
-<td><div align="center"><font color="green">Pour instances Legend</font></div> </td></tr>
+<td><div align="center"><font color="red"><b>165</b>b></font></div> </td>
+<td><div align="center"><font color="green"><b>Pour instances Legend</b></font></div> </td></tr>
 <tr><td><div align="center"><b>Critical DMG</b></div> </td>
-<td><div align="center"><font color="red">300-315%</font></div> </td>
+<td><div align="center"><font color="red"><b>300-315%</b>b></font></div> </td>
 <td><div align="center"></div> </td></tr>
 </table>
 
