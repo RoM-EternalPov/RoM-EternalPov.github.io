@@ -6,5 +6,5 @@ icon:
   name: fa-user-secret
 color: green
 sections:
-  - /jobs/basics/
+  - /jobs/basics/hunter
 ---
