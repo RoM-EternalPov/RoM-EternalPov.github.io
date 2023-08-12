@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Jobs
+excerpt: Build, stats, runes, tips and more
 tagline: |
   Together, we hit harder!
   
