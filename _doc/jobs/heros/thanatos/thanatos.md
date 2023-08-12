@@ -67,10 +67,6 @@ Si vous jouez Thanatos Water, vous devirez optez pour 2x <font color="red"><b>Fl
 <br>
 Coming Soon
 
-### Runes
-<br>
-Coming Soon
-
 ### Praying & Others
 <br>
 <div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
