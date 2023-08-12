@@ -44,11 +44,11 @@ sections:
 
 <img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/skills_1.png" style="max-width: 100%; height: auto;" alt="Skills AA Crit" />
 
-#### Ranger
+#### Sniper
 
 <img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/skills_2.png" style="max-width: 100%; height: auto;" alt="Skills AA Crit" />
 
-#### Stellar Hunter
+#### Ranger
 
 <img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/skills_3.png" style="max-width: 100%; height: auto;" alt="Skills AA Crit" />
 
