@@ -6,5 +6,5 @@ icon:
   name: fa-user-secret
 color: green
 sections:
-  - /jobs2.md
+  - jobs2.md
 ---
