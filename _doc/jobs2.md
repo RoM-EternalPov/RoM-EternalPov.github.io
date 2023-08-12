@@ -2,6 +2,6 @@
 layout: home
 title: Jobs
 navigation:
-  - /Basic
-  - /Heros
+  - /basics
+  - /heros
 ---
