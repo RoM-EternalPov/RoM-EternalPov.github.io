@@ -74,9 +74,7 @@ Coming Soon
 ### Relics
 
 <nobr>
-  #### Mid Game
   <img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/relics_midgame.png" style="max-width: 100%; height: auto;" alt="Relics Mid Game AA Crit" />
-  #### End Game
   <img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/relics_endgame.png" style="max-width: 100%; height: auto;" alt="Relics End Game AA Crit" />
 </nobr>
 
