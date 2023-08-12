@@ -28,7 +28,7 @@ Coming Soon
 
 ### Stuff
 
-<img src="../../assets/images/jobs/hunter/PvE_AA_Crit/Hunter_PvE_AA_Crit_Build.png" style="max-width: 100%; height: auto;" alt="Stuff AA Crit" /><br><br>
+<img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/Hunter_PvE_AA_Crit_Build.png" style="max-width: 100%; height: auto;" alt="Stuff AA Crit" /><br><br>
 
 <div class="callout-block callout-success"><div class="icon-holder">*&nbsp;*{: .fa .fa-thumbs-up}
 </div><div class="content">
@@ -39,7 +39,7 @@ Si vous avez assez de Critical DMG, les headwears suivant peuvent être une alte
 
 </div></div>
 
-<img src="../../assets/images/jobs/hunter/PvE_AA_Crit/headwear_0.png" style="max-width: 100%; height: auto;" alt="Stuff AA Crit" />
+<img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/headwear_0.png" style="max-width: 100%; height: auto;" alt="Stuff AA Crit" />
 
 ### Shadow Equipments & Relics
 
@@ -47,7 +47,7 @@ Coming Soon
 
 ### Runes
 
-<img src="../../assets/images/jobs/hunter/PvE_AA_Crit/runes_0.png" style="max-width: 100%; height: auto;" alt="Runes AA Crit" /><br><br>
+<img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/runes_0.png" style="max-width: 100%; height: auto;" alt="Runes AA Crit" /><br><br>
 
 <div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
 </div><div class="content">
@@ -58,4 +58,17 @@ Les trois runes suivantes sont indispensables pour assurer un maximum de DPS.
 
 </div></div>
 
-<img src="../../assets/images/jobs/hunter/PvE_AA_Crit/runes_1.png" style="max-width: 100%; height: auto;" alt="Stuff AA Crit" />
+<img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/runes_1.png" style="max-width: 100%; height: auto;" alt="Stuff AA Crit" />
+
+### Praying & Others
+
+<div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
+</div><div class="content">
+{: .callout-title}
+#### Praying Cards
+
+Offensivement priorisé : <font color="red">Atk , Refine Attack, Neutral Atk, Crit.Dmg et Pen</font>
+Pour les élément priorisé : <font color="yellow">Fire, Water, Wind, Earth</font>
+
+</div></div>
+
