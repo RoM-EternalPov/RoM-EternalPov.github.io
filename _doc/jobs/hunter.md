@@ -28,7 +28,18 @@ Coming Soon
 
 ### Stuff
 
-<img src="../../assets/images/jobs/hunter/PvE_AA_Crit/Hunter_PvE_AA_Crit_Build.png" style="max-width: 100%; height: auto;" alt="Stuff AA Crit" class="center" />
+<img src="../../assets/images/jobs/hunter/PvE_AA_Crit/Hunter_PvE_AA_Crit_Build.png" style="max-width: 100%; height: auto;" alt="Stuff AA Crit" /><br><br>
+
+<div class="callout-block callout-success"><div class="icon-holder">*&nbsp;*{: .fa .fa-thumbs-up}
+</div><div class="content">
+{: .callout-title}
+#### Headwears tips
+
+Si vous avez assez de Critical DMG, les headwears suivant peuvent être une alternative intéréssante. 
+
+</div></div>
+
+<img src="../../assets/images/jobs/hunter/PvE_AA_Crit/headwear_0.png" style="max-width: 100%; height: auto;" alt="Stuff AA Crit" />
 
 ### Shadow Equipments & Relics
 
@@ -36,7 +47,7 @@ Coming Soon
 
 ### Runes
 
-<img src="../../assets/images/jobs/hunter/PvE_AA_Crit/runes_0.png" style="max-width: 100%; height: auto;" alt="Runes AA Crit" classe="center" /><br><br>
+<img src="../../assets/images/jobs/hunter/PvE_AA_Crit/runes_0.png" style="max-width: 100%; height: auto;" alt="Runes AA Crit" /><br><br>
 
 <div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
 </div><div class="content">
