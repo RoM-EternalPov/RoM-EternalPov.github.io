@@ -4,7 +4,7 @@ excerpt: Build, stats, runes, tips and more
 icon:
   type: fa
   name: fa-rebel
-color: green
+color: blue
 sections:
   - /jobs/basics/hunter/hunter
 ---
