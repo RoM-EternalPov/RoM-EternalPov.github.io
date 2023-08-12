@@ -38,15 +38,19 @@ sections:
 
 #### Archer
 
-<img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/skills_0.png" style="max-width: 100%; height: auto;" alt="Stuff AA Crit" />
+<img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/skills_0.png" style="max-width: 100%; height: auto;" alt="Skills AA Crit" />
 
 #### Hunter
 
-<img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/skills_1.png" style="max-width: 100%; height: auto;" alt="Stuff AA Crit" />
+<img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/skills_1.png" style="max-width: 100%; height: auto;" alt="Skills AA Crit" />
 
-### Ranger
+#### Ranger
 
-<img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/skills_2.png" style="max-width: 100%; height: auto;" alt="Stuff AA Crit" />
+<img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/skills_2.png" style="max-width: 100%; height: auto;" alt="Skills AA Crit" />
+
+#### Stellar Hunter
+
+<img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/skills_3.png" style="max-width: 100%; height: auto;" alt="Skills AA Crit" />
 
 ### Stuff
 
@@ -63,9 +67,19 @@ Si vous avez assez de Critical DMG, les headwears suivant peuvent être une alte
 
 <img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/headwear_0.png" style="max-width: 100%; height: auto;" alt="Stuff AA Crit" />
 
-### Shadow Equipments & Relics
+### Shadow Equipments
 
 Coming Soon
+
+### Relics
+
+#### Mid Game
+
+<img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/relics_midgame.png" style="max-width: 100%; height: auto;" alt="Relics Mid Game AA Crit" />
+
+#### End Game
+
+<img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/relics_endgame.png" style="max-width: 100%; height: auto;" alt="Relics End Game AA Crit" />
 
 ### Runes
 
@@ -80,7 +94,7 @@ Les trois runes suivantes sont indispensables pour assurer un maximum de DPS.
 
 </div></div>
 
-<img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/runes_1.png" style="max-width: 100%; height: auto;" alt="Stuff AA Crit" />
+<img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/runes_1.png" style="max-width: 100%; height: auto;" alt="Runes AA Crit" />
 
 ### Praying & Others
 
