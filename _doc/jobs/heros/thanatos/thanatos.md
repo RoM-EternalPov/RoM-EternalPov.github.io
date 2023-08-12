@@ -36,9 +36,11 @@ sections:
 
 Coming Soon
 
-### Shadow Equipments & Relics
+### Shadow Equipments
 
 Coming Soon
+
+### Relics
 
 ### Runes
 
