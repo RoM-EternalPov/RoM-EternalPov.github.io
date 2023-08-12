@@ -14,13 +14,13 @@ sections:
 
 ### Stuff
 
-<img src="../../assets/images/jobs/hunter/PvE_AA_Crit/Hunter_PvE_AA_Crit_Build.png" style="max-width: 100%; height: auto;" alt="Stuff AA Crit" />
+<img src="../../assets/images/jobs/hunter/PvE_AA_Crit/Hunter_PvE_AA_Crit_Build.png" style="max-width: 100%; height: auto;" alt="Stuff AA Crit" class="center" />
 
 ### Shadow Equipments & Relics
 
 ### Runes
 
-<img src="../../assets/images/jobs/hunter/PvE_AA_Crit/runes_0.png" style="max-width: 100%; height: auto;" alt="Runes AA Crit" /><br><br>
+<img src="../../assets/images/jobs/hunter/PvE_AA_Crit/runes_0.png" style="max-width: 100%; height: auto;" alt="Runes AA Crit" classe="center" /><br><br>
 
 <div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
 </div><div class="content">
