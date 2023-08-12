@@ -14,8 +14,17 @@ sections:
 
 ### Runes
 
-<img href="https://raw.githubusercontent.com/RoM-EternalPov/RoM-EternalPov.github.io/gh-pages/assets/images/jobs/hunter/PvE_AA_Crit/runes_0.png" src="../../assets/images/jobs/hunter/PvE_AA_Crit/runes_0.png" style="max-width: 100%; height: 600px;" alt="Runes AA Crit" /><br>
+<img href="https://raw.githubusercontent.com/RoM-EternalPov/RoM-EternalPov.github.io/gh-pages/assets/images/jobs/hunter/PvE_AA_Crit/runes_0.png" src="../../assets/images/jobs/hunter/PvE_AA_Crit/runes_0.png" style="max-width: 100%; height: 600px;" alt="Runes AA Crit" /><br><br>
 
+<div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
+</div><div class="content">
+{: .callout-title}
+#### Note importante
+
+Les trois runes suivantes sont indispensables pour assurer un maximum de DPS.
+
+</div></div>
+<br><br>
 <nobr>
   <img href="https://raw.githubusercontent.com/RoM-EternalPov/RoM-EternalPov.github.io/gh-pages/assets/images/jobs/hunter/PvE_AA_Crit/runes_1.png" src="../../assets/images/jobs/hunter/PvE_AA_Crit/runes_1.png" style="max-width: 100%; height: 300px;" alt="Stuff AA Crit" />
   <img href="https://raw.githubusercontent.com/RoM-EternalPov/RoM-EternalPov.github.io/gh-pages/assets/images/jobs/hunter/PvE_AA_Crit/runes_2.png" src="../../assets/images/jobs/hunter/PvE_AA_Crit/runes_2.png" style="max-width: 100%; height: 300px;" alt="Stuff AA Crit" />
