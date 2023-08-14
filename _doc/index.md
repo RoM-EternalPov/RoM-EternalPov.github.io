@@ -15,7 +15,7 @@ navigation:
   - /donjons
   - /pvp
   - /war
-  - /other
+  - /tips
   - /comingsoon
 ---
 
