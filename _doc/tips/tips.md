@@ -8,7 +8,7 @@ sections:
 
 <p>Pour se faire des zenny ou des consommable grâce au <font color="red"><b>Magic Gear Fuel</b></font> (max 2000/jours) sans utiliser de stamina, il vous suffit d'aller en guilde munis de stamina, <font color="red"><b>Dead Branch</b></font>, la classe meca et une <font color="red"><b>chaîne active</b>. Ouvrez vos <font color="red"><b>Dead Branch</b></font> puis tué les monstres jusqu'à atteindre le quota maximal de <font color="red"><b>Magic Gear Fuel</b></font>.</p>
 
-<img src="../../../assets/images/tips/mado_gear_fuel/conso.png" style="max-width: 100%; height: auto;" alt="Conso pour Mado Gear Fuel Drop" />
+<img src="../../../assets/images/tips/mado_gear_fuel/compo.png" style="max-width: 100%; height: auto;" alt="Conso pour Mado Gear Fuel Drop" />
 
 <div class="callout-block callout-danger"><div class="icon-holder">*&nbsp;*{: .fa .fa-exclamation-triangle}
 </div><div class="content">
