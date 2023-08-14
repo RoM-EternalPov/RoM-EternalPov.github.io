@@ -28,3 +28,9 @@ Sa n'utilise pas de stam non plus à surveiller au cas ou sa change un jours
 
 </div></div>
 
+<div class="callout-block callout-danger"><div class="icon-holder">*&nbsp;*{: .fa .fa-exclamation-triangle}
+</div><div class="content">
+{: .callout-title}
+#### Attention !
+Il ne faut pas mettre le robot en auto, sinon il y'à un risque qu'il fasse la combinaison correcte de la quête
+</div></div>
