@@ -8,13 +8,13 @@ tagline: |
   
 heading: Play for fun and growth to cum!
 navigation:
+  - /bases
   - /jobs
   - /routines
   - /quests
   - /donjons
   - /pvp
   - /war
-  - /food
   - /other
   - /comingsoon
 ---
