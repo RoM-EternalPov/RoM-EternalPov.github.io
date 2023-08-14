@@ -6,5 +6,5 @@ icon:
   name: fa-bank
 color: primary
 sections:
-  - /bases
+  - /bases/bases
 ---
