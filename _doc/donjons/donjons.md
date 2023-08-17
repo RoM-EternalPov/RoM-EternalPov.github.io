@@ -180,6 +180,6 @@ Restez en mouvement!
 
 #### Invocation
 
-<center><img src="../../../assets/images/donjons/void/invocation_witch_of_calamity.gif" style="max-width: 100%; height: auto;" alt="Invocation Withc Of Calamity" /></center><br>
+<center><img src="../../../assets/images/donjons/void/invocation_witch_of_calamity.gif" style="max-width: 100%; height: auto;" alt="Invocation Witch of Calamity" /></center><br>
 
 
