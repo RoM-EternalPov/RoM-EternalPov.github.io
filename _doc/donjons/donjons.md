@@ -106,6 +106,32 @@ La compétence de meteore vous suis jusqu'à la fin de la partie, mais si vous m
 
 </div></div>
 
+## Isle
+
+### Floor 1
+
+<p>Le Golem! Ces compétences :</p>
+- Deux rochers poser au sol avec un laser qui les rejoint. Zone dangereuse! Fuiyez les, elle donnent des dégâts en continu 
+- Compétence de zone autour de lui, reculez
+- Possible d'être enfermé dans un rocher, vos alliés doivent alors tapper le rocher qui vous enferme pour vous libérer
+- Possible d'avoir un rocher à déposer, à ce moment vous ne pourrez rien faire si vous ne le déposer pas.
+- En fin de combat (sauf si vous le tuer assez vite), certain endroits de la carte verront apparaître des coullée de lave qui font des dégâts en continu, mais certaines zone sont safe
+
+<div class="callout-block callout-success"><div class="icon-holder">*&nbsp;*{: .fa .fa-thumbs-up}
+</div><div class="content">
+{: .callout-title}
+#### Tips
+
+Pour la compétence du rocher qui vous est attribué à déposer. Vous pouvez le voir non seulement avec l'icone du rocher et le bouton déposer qui apparait vers vos skills. Mais également sur la droite de votre écran, dans le menu regroupant les informations du donjon, il se remarque par une icone représentant un rocher.
+
+Penssez à le poser vers les autres rocher, rappeler vous que les rocher se lie entre eux avec un laser, éviter de pièger vos allié dans un triangle de laser!
+
+</div></div>
+
+### Floor 2
+
+### Floor 3
+
 ## Echoing Corridor
 
 ### Tarrot
