@@ -2,6 +2,7 @@
 title: Donjons
 sections:
   - Museum
+  - Isle
   - Echoing Corridor
   - Void Territory
 ---
