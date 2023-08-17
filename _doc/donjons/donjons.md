@@ -20,7 +20,7 @@ sections:
 
 <p>Une alternative serrais d'acheter l'item dans la room shop, qui permet d'éclairer une salle. Mais il faut alors un item par étage.</p>
 
-<center><img src="../../../assets/images/donjons/echoing_corridor/tarrot_eternity_map.png" style="max-width: 100%; height: auto;" alt="Eternity Map Card" /></center><br>
+<center><img src="../../../assets/images/donjons/echoing_corridor/tarrot_eternity_map.png" style="max-width: 50%; height: auto;" alt="Eternity Map Card" /></center><br>
 
 #### One Corridor Key
 
