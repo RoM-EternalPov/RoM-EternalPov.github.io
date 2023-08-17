@@ -1,9 +1,46 @@
 ---
 title: Donjons
 sections:
+  - Museum - Epic Spirit AKA Legend
   - Echoing Corridor
   - Void Territory
 ---
+
+## Museum - Epic Spirit AKA Legend
+
+### Floor 1
+
+<p>Le dragon! Il suffit de le taper tout en évitant ces deux compétences de zone. Une en face de lui et l'autre autour de lui.</p>
+
+<p>Il possède aussi deux autres compétences qui ne peuvent être éviter.</p>
+
+<p>L'une de ces compétences est une grosse zone de feu ou de poison, avant qu'elle ne se lance, vous aurez deux avertissements :</p>
+  <li>Une flamme rouge ou verte s'affiche sur la tête de votre personnage</li>
+  <li>Une icone rouge ou verte serra affichée dans le menu a droite de l'écran regroupant les informations du donjon</li>
+
+<p>Si ces avertissements s'affiche, éloigné vous de vos alliés et restez en mouvement pour éviter la zone le plus possible.</p>
+
+<p>La deuxième des compétences, c'est la même chose en plus petit, sauf que cette fois ci il n'y a pas d'avertissement. Sortez vite de la zone, avec un peut de chance sa vous tuera pas.</p>
+
+<p>Pour finir, le dragon invoque d'autres petit dragons, mais rien de bien méchant.</p>
+
+<div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
+</div><div class="content">
+{: .callout-title}
+#### Info
+
+Le poison et brûlure se stack jusqu'à dix, mais même une seule couche est un énorme impacte de dégats, alors faites attention
+
+</div></div>
+
+<div class="callout-block callout-success"><div class="icon-holder">*&nbsp;*{: .fa .fa-thumbs-up}
+</div><div class="content">
+{: .callout-title}
+#### Tips
+
+Impossible de retirer les stack de brulûre ou poison, sauf de mourir mais il y'a une astuce. Si vous avez plusieures stack d'un des malus, par example poison, vous pouvez marcher brievement sur une zone de brûlure, celà aura pour effet de supprimer vos stack de poison pour vour le remplacer par une stack de brûlure
+
+</div></div>
 
 ## Echoing Corridor
 
