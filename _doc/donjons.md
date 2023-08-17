@@ -6,5 +6,5 @@ icon:
   name: fa-empire
 color: purple
 sections:
-  - /
+  - /donjons/donjons
 ---
