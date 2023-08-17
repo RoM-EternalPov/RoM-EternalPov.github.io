@@ -1,12 +1,12 @@
 ---
 title: Donjons
 sections:
-  - Museum - Epic Spirit AKA Legend
+  - Museum
   - Echoing Corridor
   - Void Territory
 ---
 
-## Museum - Epic Spirit AKA Legend
+## Museum
 
 ### Floor 1
 
