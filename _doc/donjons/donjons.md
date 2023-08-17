@@ -77,8 +77,8 @@ Rock frappe la personne la plus proche de lui n'importe où sur la carte. Au bou
 
 <p>Ici il y'a 4 boss et il possède chacun deux classes différentes :</p>
 - <font color="red"><b>Nuka</b></font> Group Disarme en zone autour de lui, si vous le collez vous ne pourrez plus utilisez de skills offensif ni attaquer. L'idéal serrait que quelqu'un le distrait pour encaisser le disarme loin de ces alier.
-- <font color="orange"><b>Pocaroni</b></font> anti heal piège et hell plant 
-- <font color="yellow"><b>Joël</b></font> attaque de zone en ligne 
+- <font color="purple"><b>Pocaroni</b></font> anti heal piège et hell plant 
+- <font color="orange"><b>Joël</b></font> attaque de zone en ligne 
 - <font color="green"><b>Camora</b></font> meteore et white barrière, quand elle et active impossible de lui infliger de dégâts (sauf les attaques d'élément ghost) 
 
 <p>L'ordre des kills se décide à l'avance avec les participants.</p>
