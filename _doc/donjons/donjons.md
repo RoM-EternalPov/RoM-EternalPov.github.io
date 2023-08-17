@@ -83,6 +83,15 @@ Rock frappe la personne la plus proche de lui n'importe où sur la carte. Au bou
 
 <p>L'ordre des kills se décide à l'avance avec les participants.</p>
 
+<div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
+</div><div class="content">
+{: .callout-title}
+#### Info
+
+En difficulté Brave (Warrior), l'ordre des kills serra : Nuka > Joël > Pocaroni > Camora
+
+</div></div>
+
 <p>Voici une liste des compétences/malus du donjons à retenir :</p>
 - Présence d'AoE anti SP pendant 10 secondes
 - Zone de dégâts (zones violet et vert), éloigné vous de vos alliés 
@@ -94,15 +103,6 @@ Rock frappe la personne la plus proche de lui n'importe où sur la carte. Au bou
 #### Info
 
 La compétence de meteore vous suis jusqu'à la fin de la partie, mais si vous mourrez, elle se transmet à un autre allié
-
-</div></div>
-
-<div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
-</div><div class="content">
-{: .callout-title}
-#### Info
-
-En difficulté Brave (Warrior), l'ordre des kills serra : Nuka > Joël > Pocaroni > Camora
 
 </div></div>
 
