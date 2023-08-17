@@ -73,6 +73,38 @@ Rock frappe la personne la plus proche de lui n'importe où sur la carte. Au bou
 
 ### Floor 3
 
+<p>Avant d'arriver au dernier boss exactement pareil protéger le pnj jusqu'à qu'il libère le chemin</p>
+
+<p>Ici il y'a 4 boss et il possède chacun deux classes différentes :</p>
+- <font color="red"><b>Nuka</b></font> Group Disarme en zone autour de lui, si vous le collez vous ne pourrez plus utilisez de skills offensif ni attaquer. L'idéal serrait que quelqu'un le distrait pour encaisser le disarme loin de ces alier.
+- <font color="orange"><b>Pocaroni</b></font> anti heal piège et hell plant 
+- <font color="yellow"><b>Joël</b></font> attaque de zone en ligne 
+- <font color="green"><b>Camora</b></font> meteore et white barrière, quand elle et active impossible de lui infliger de dégâts (sauf les attaques d'élément ghost) 
+
+<p>L'ordre des kills se décide à l'avance avec les participants.</p>
+
+<p>Voici une liste des compétences/malus du donjons à retenir :</p>
+- Présence d'AoE anti SP pendant 10 secondes
+- Zone de dégâts (zones violet et vert), éloigné vous de vos alliés 
+- Tête de mort violet sur votre tête, c'est la compétences <font color="red"><b>meteore</b></font> vous visant vous uniquement. Eloigné vous de vos alliés pour ne pas qu'il soit touché par l'explosion
+
+<div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
+</div><div class="content">
+{: .callout-title}
+#### Info
+
+La compétence de meteore vous suis jusqu'à la fin de la partie, mais si vous mourrez, elle se transmet à un autre allié
+
+</div></div>
+
+<div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
+</div><div class="content">
+{: .callout-title}
+#### Info
+
+En difficulté Brave (Warrior), l'ordre des kills serra : Nuka > Joël > Pocaroni > Camora
+
+</div></div>
 
 ## Echoing Corridor
 
