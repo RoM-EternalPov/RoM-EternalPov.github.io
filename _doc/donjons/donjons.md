@@ -42,6 +42,38 @@ Impossible de retirer les stack de brulûre ou poison, sauf de mourir mais il y'
 
 </div></div>
 
+### Floor 2
+
+
+<p>Avant d'atteindre le second boss il vous faudra tuer des monstres pour protéger un PNJ. Une fois terminé il débloque le passage jusqu'au second boss</p>
+
+<div class="callout-block callout-danger"><div class="icon-holder">*&nbsp;*{: .fa .fa-exclamation-triangle}
+</div><div class="content">
+{: .callout-title}
+#### Attention !
+
+Premièrement, n'allez pas affronter le boss dans le champs de pions, attiré le à l'exterieur. Si vous allez dans la zone des pions vous subirez énormément de dégats et finirez très vite par être tué
+
+</div></div>
+
+<p>Le Puzzle! Taper aussi fort que vous pouvez et ne rester pas sur les cases illuminée en rouge.</p>
+
+<p>Une fois un certain pourcentage du boss dessendu, il devient invulnerable et se lie à un de ses pions appeler <font color="red"><b>Rock</b></font>, a ce moment là changer de cible et détruiser Rock. Ce procéder s'effectuera deux fois lors du fight.</p>
+
+<p>Pour finir, vers la fin du fight vous devez restez souvent en mouvement car les pions effectue sortes de leur zone et se déplace. Fuyez les pour ne pas subir de dégats.</p>
+
+<div class="callout-block callout-danger"><div class="icon-holder">*&nbsp;*{: .fa .fa-exclamation-triangle}
+</div><div class="content">
+{: .callout-title}
+#### Attention !
+
+<font color="red"><b>Rock</b></font> frappe la personne la plus proche de lui n'importe où sur la carte. Au bout de 3 coups subis le 4ème coup vous tuera, meme full HP
+
+</div></div>
+
+### Floor 3
+
+
 ## Echoing Corridor
 
 ### Tarrot
