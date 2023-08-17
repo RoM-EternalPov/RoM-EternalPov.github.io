@@ -15,8 +15,8 @@ sections:
 <p>Il possède aussi deux autres compétences qui ne peuvent être éviter.</p>
 
 <p>L'une de ces compétences est une grosse zone de feu ou de poison, avant qu'elle ne se lance, vous aurez deux avertissements :</p>
-  <li>Une flamme rouge ou verte s'affiche sur la tête de votre personnage</li>
-  <li>Une icone rouge ou verte serra affichée dans le menu a droite de l'écran regroupant les informations du donjon</li>
+- Une flamme rouge ou verte s'affiche sur la tête de votre personnage
+- Une icone rouge ou verte serra affichée dans le menu a droite de l'écran regroupant les informations du donjon
 
 <p>Si ces avertissements s'affiche, éloigné vous de vos alliés et restez en mouvement pour éviter la zone le plus possible.</p>
 
