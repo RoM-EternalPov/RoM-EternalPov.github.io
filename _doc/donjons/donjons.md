@@ -163,7 +163,7 @@ Restez en mouvement!
 <center><img src="../../../assets/images/donjons/echoing_corridor/skill_split.png" style="max-width: 100%; height: auto;" alt="Split Skill" /></center><br>
 
 ## Void Territory
-
+<br>
 <p>Ci-dessous vous trouverez des détails concernant Void Territory et les MvP qui y occupe.</p>
 
 ### Zanubia
