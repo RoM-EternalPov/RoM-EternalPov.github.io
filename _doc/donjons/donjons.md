@@ -137,7 +137,7 @@ Cette zone fait énormément de dégats, si vous n'etes pas très résistant, vo
 
 </div></div>
 
-<center><img src="../../../assets/images/donjons/echoing_corridor/skill_explosion_1.png" style="max-width: 100%; height: auto;" alt="Explosion Skill" /></center>
+<center><img src="../../../assets/images/donjons/echoing_corridor/skill_explosion_1.png" style="max-width: 100%; height: auto;" alt="Explosion Skill" /></center><br>
 <center><img src="../../../assets/images/donjons/echoing_corridor/skill_explosion_2.png" style="max-width: 100%; height: auto;" alt="Explosion Skill" /></center><br>
 
 
