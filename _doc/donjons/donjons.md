@@ -58,7 +58,7 @@ Premièrement, n'allez pas affronter le boss dans le champs de pions, attiré le
 
 <p>Le Puzzle! Taper aussi fort que vous pouvez et ne rester pas sur les cases illuminée en rouge.</p>
 
-<p>Une fois un certain pourcentage du boss dessendu, il devient invulnerable et se lie à un de ses pions appeler <font color="red"><b>Rock</b></font>, a ce moment là changer de cible et détruiser Rock. Ce procéder s'effectuera deux fois lors du fight.</p>
+<p>Une fois un certain pourcentage du boss dessendu, il devient invulnerable et se lie à un de ses pions appeler <font color="red"><b>Rock</b></font>, a ce moment là changer de cible et détruiser <font color="red"><b>Rock</b></font>. Ce procéder s'effectuera deux fois lors du fight.</p>
 
 <p>Pour finir, vers la fin du fight vous devez restez souvent en mouvement car les pions effectue sortes de leur zone et se déplace. Fuyez les pour ne pas subir de dégats.</p>
 
@@ -67,7 +67,7 @@ Premièrement, n'allez pas affronter le boss dans le champs de pions, attiré le
 {: .callout-title}
 #### Attention !
 
-<font color="red"><b>Rock</b></font> frappe la personne la plus proche de lui n'importe où sur la carte. Au bout de 3 coups subis le 4ème coup vous tuera, meme full HP
+Rock frappe la personne la plus proche de lui n'importe où sur la carte. Au bout de 3 coups subis le 4ème coup vous tuera, meme full HP
 
 </div></div>
 
