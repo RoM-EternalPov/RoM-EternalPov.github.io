@@ -167,16 +167,11 @@ Sur le Screenshot, le Horong est révélé. Mais il est sous hide, pour le déte
 
 <p>Symbiosis! Tuez tous les monstres du nom de cette compétence en même temps, autrement il reviendront à la vie constamment.</p>
 
-<div class="callout-block callout-danger"><div class="icon-holder">*&nbsp;*{: .fa .fa-exclamation-triangle}
-</div><div class="content">
-{: .callout-title}
-#### Attention !
-
-Une fois les 3/4 de leur vie baissée, ils obtiennent un shield d'invulnérabilitée pendant 3 secondes
-
-</div></div>
-
 <center><img src="../../../assets/images/donjons/echoing_corridor/skill_symbiosis.png" style="max-width: 100%; height: auto;" alt="Symbiosis Skill" /></center><br>
+
+#### Intense Fights
+
+<p>Une fois les 3/4 de leur vie baissée, ils obtiennent un shield d'invulnérabilitée pendant 3 secondes</p>
 
 #### Heal
 
