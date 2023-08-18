@@ -16,7 +16,6 @@ navigation:
   - /pvp
   - /war
   - /tips
-  - /comingsoon
 ---
 
 Bienvenue sur RoM Eternal PoV!
