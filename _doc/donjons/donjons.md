@@ -43,6 +43,28 @@ Il existe deux possibilité pour s'en libérer :
 
 ### Floor 2
 
+<p>Le Tesseract! Taper le et éviter ces attaques de zones, les compétences/évenement suivantes serront lancée :</p>
+- Il lance des zone explosif au sol
+- Il invoque des monstres
+- Des mur de rayons laser, qui traverse la moitié de la carte
+- Des imple rayons laser qui vous suivents
+- Il peut vous lier à une autre personne.
+
+<div class="callout-block callout-danger"><div class="icon-holder">*&nbsp;*{: .fa .fa-exclamation-triangle}
+</div><div class="content">
+{: .callout-title}
+#### Attention !
+
+Le liens qui vous lie vous et une autre personne inflige des dégâts en continu plus vous vous éloigné l'un de l'autres.
+
+Les seul moyen de s'en libérer sont :
+- Déplacer vous en sortes qu'un des laser passe au travers du lien pour le couper.
+- Qu'une des deux personnes meurt
+
+</div></div>
+
+<p>Au bout de 19% HP, il devient invulnérable, une zone bleue apparaît en bas de la carte. Au bout de quelque secondes des cléfs spawn sur la carte à leur tour pour une courte durée avant d'apparaître à d'autres positions. Vous devez ramassez une clef puis la ramener dans la zone, et faire celà un total de cinq fois. Une fois celà fait, patienter pendant l'animation, le boss meurt et vous pourrez passer a l'étage suivant.</p>
+
 ### Floor 3
 
 ### Floor 4
