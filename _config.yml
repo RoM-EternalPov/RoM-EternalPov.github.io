@@ -28,43 +28,10 @@ kramdown:
 # Owner
 #
 owner:
-  name: S0me_b0dy
-  twitter: &site_owner_twitter 
+  name: La Z0ne
   copyright:
-    notice: 2gether, hit harder
-    author: "[Template Auhtor : Guillermo Calvo](https://guillermo.in/)"
-
-
-#
-# Social
-#
-open_graph:
-  title: *site_title
-  site_name: *site_title
-  description: *site_description
-  locale: en_US
-  image: /assets/images/thumb.png
-twitter_cards:
-  title: *site_title
-  description: *site_description
-  creator: *site_owner_twitter
-  card: summary_large_image
-  image: /assets/images/thumb.png
-share:
-  facebook:
-    class: fb-like
-    action: like
-    layout: button_count
-    show-faces: false
-    share: false
-  twitter:
-    via: *site_owner_twitter
-    text: &site_description
-    title: Tweet
-  github:
-    repo: LeakyAbstractions/pretty-docs
-    position: right
-    color: red
+    notice: Together, we hit harder!
+    author: "S0m3b0dy and S0m30n3 else"
 
 #
 # Collections
