@@ -67,7 +67,43 @@ Les seul moyen de s'en libérer sont :
 
 ### Floor 3
 
+<p>Ici vous retrouverez 4 Boules, il faut que les plus gros DPS les ramassent pour pouvoir bien choisir leur zone de combat.</p>
+
+<p>Pour les joueurs réstant n'ayant pas ramasser de boulles, vous aurez une zone a vos pied attribuée a une couleur, jaune vous devrez cibler le MvP au centre de la map, et violet vous devez affronter le MvP sur les bords de la map ou juste courrir car c'est le boss du centre qui compte réellement.</p>
+
+<p>Si vous ne tuez pas les boss assez vite ils deviendront invulnérable, puis, le boss du centre invoquera trois petites tourres, il suffit de les casser pour le rendre à nouveau vulnérables.</p>
+
+<div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
+</div><div class="content">
+{: .callout-title}
+#### Info
+
+Si tous le monde meurt à l'exterieur ou au centre, ou qu'une des deux zones n'est pas occupé par des joueurs, tous le monde meurt
+
+</div></div>
+
+
 ### Floor 4
+
+<p>Thanatos et la prêtresse! Pour Thanatos, tapper le et éviter ces compétences. Deux compétences impossible a éviter :</p>
+- Le blocage pendant 20 seconde
+- La zone explosive rouge autour de votre personnage, celle là, si possible éloigné vous des autres car la compétences se transmet au contact
+
+<p>A un certain moment Thanatos se téléporte au centre de la map et rentre dans sa forme démoniaque. La de nouveau, tapper le et eviter ces attaques.</p>
+
+<p>Une fois Thanatos vaincu la prêtresse apparâit. Soit vous taper asser fort et arrivé à la tuée. Soit vous courrez pendant 30 secondes et c'est gagné, le but est simplement de survivre 30 secondes.</p>
+
+<div class="callout-block callout-danger"><div class="icon-holder">*&nbsp;*{: .fa .fa-exclamation-triangle}
+</div><div class="content">
+{: .callout-title}
+#### Attention !
+
+Portez attention a la petite barre supplémentaire vers votre vie/mana, si vous avez trop été ciblé par les attaque de Thanatos, vous serrez téléporter dans le néant.
+Pas de panique, il vous suffit de parler au NPC (Siren) sur le bord de la carte (et pas au NPC du milieu), une personne pourra en revenir toute les 10 ou 20 seconde.
+
+Mais faites quand meme attentions, les monstres font de gros dégats dans cette zone.
+
+</div></div>
 
 ## Ponape Secret Realm
 
