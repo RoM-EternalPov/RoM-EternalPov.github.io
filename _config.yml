@@ -6,6 +6,7 @@ url: https://RoM-EternalPov.github.io
 baseurl: /
 title: &site_title RoM Eternal PoV
 description: &site_description Guides Collection about Ragnarok Mobil Eternal Love (EU)
+favicon: "/assets/images/favicon.ico"
 branding:
   icon:
     type: fa
