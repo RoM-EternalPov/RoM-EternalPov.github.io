@@ -12,4 +12,7 @@ sections:
 
 <p>Puis vider le shop de Rare item égallement.</p>
 
+<center><img src="../../../assets/images/routines/daily/cuisine_rare_item_1.png" style="max-width: 100%; height: auto;" alt="Cuisine Rare Item" /></center><br>
+<center><img src="../../../assets/images/routines/daily/cuisine_rare_item_2.png" style="max-width: 100%; height: auto;" alt="Cuisine Rare Item" /></center><br>
+
 
