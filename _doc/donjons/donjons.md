@@ -142,16 +142,33 @@ Penssez à le poser vers les autres rocher, rappeler vous que les rocher se lie 
 
 ### Floor 3
 
-3 demonic observer 
-Première fasse le taper jusqu'à qui se mette en invulnérable 
-Ensuite il fais apparaître un cœur invulnérable et des monstres un mini et un mvp 
-Objectif tuer le mvp pour faire apparaître des boule rouge qui faut détruire pour rendre le cœur vulnérable puis tuer le cœur pour que le boss soit vulnérable 
-Compétences en brave 
-Il invoque des boule verte qui faut absolument détruire ou c'est os pour tous le monde 
-Il fais apparaître des flaque verte au sol ne pas marcher dedans dégât en continu
-Des tentacule vont vous attirer sur les côtés de la carte pour vous empêcher justement à accomplir les objectifs 
-Vous pourrez aussi être bloqué par un tentacule seul moyen de s'en sortir que quelqu'un la detruise 
-En légendaire la seul compétences qu'il a en plus de toute celle avant ces qu'il fais apparaître sur les personnes aléatoirement une zone bleu sur vous ou vos alliés cette zone bleu ne dois pas rentrer en contact avec les petite flaque verte au sol ou c'est 80% de votre vie a tous qui saute 2 coup tous le monde et mort 😂 voilà 😂✌
+<p>Demonic observer! Taper le jusqu'à qu'il recule dans sa safe zone et se mette en invulnérable (autour des 70% de vie).</p>
+
+<p>Ensuite il fais apparaître un <font color="read"><b>heart</b></font> invulnérable au centre de la map, ainsi que des monstres, un mini et un mvp et pour finir des tentacules.</p>
+
+<p>Vos Objectifs dans l'ordre sont :</p>
+- Tuer le MvP invoquer, celà fera apparaître une boule de feu dans chaque coin qui progressera lentement en direction de <font color="read"><b>heart</b></font>
+- Aller détruire une de ces boulles, celà vous donnera la capacité de pouvoir contrer l'invulnérabilité de <font color="read"><b>heart</b></font>
+- Détruisez <font color="read"><b>heart</b></font>
+
+<p>Une cinématique ce produit, le Boss du niveau et dans sa forme final, tuer le.</p>
+
+<p>Liste des compétences :</p>
+- Il invoque des boule vertes, essayer d'en détruire quelque une pendant votre fight contre le MvP invoquer, cela fera moin d'explosion et évitera les chance de vous OS
+- Il fais apparaître des flaque verte au sol, ne pas marcher dedans dégât en continu
+- Vous pouvez portez une zone bleu autour de vous, fuyez les flaque verte, si elle explose dessus toute l'équipe obtiens un débuff de 90% de dégats
+- Des tentacule vont vous attirer sur les côtés de la carte pour vous empêcher justement à accomplir les objectifs 
+- Vous pourrez aussi être bloqué par une tentacule, pour vous en liberer il faut qu'un alier détruise la tentacule qui vous retiens, ou que vous mourrez...
+
+<div class="callout-block callout-success"><div class="icon-holder">*&nbsp;*{: .fa .fa-thumbs-up}
+</div><div class="content">
+{: .callout-title}
+#### Tips
+
+Une fois le boss à 70% de sa vie en état d'invulnérabilité, dépêcher vous de vous regrouper au centre de la map.
+
+Essayer de rester du côté opposé au tentacules, cela evitera de vous faire attraper.
+</div></div>
 
 ## Echoing Corridor
 
