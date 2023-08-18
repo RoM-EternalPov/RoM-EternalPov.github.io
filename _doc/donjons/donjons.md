@@ -131,7 +131,27 @@ Penssez à le poser vers les autres rocher, rappeler vous que les rocher se lie 
 
 ### Floor 2
 
+<p>La poupée vaudoo chelou! Une fois le combat lancer, une personne au minimum devra rester prêt de lui si il ne peut attaquer personne il tuera tous le monde.</p>
+
+<p>Ensuite surveiller toujours la tête du boss, si vous voyez une barre verte qui se charge, c'est qu'il lance ces compétences, et il le fait par phase :</p>
+- 1. Il vous transforme en poupée aussi, vous attribuant avec des skills inutile et ce jusqu'à votre mort. Pour le contrez simplement tournez lui le dos à son lancement. (L'animation de se sort lancé ressemble à des laser bleu)
+- 2. Il va lancer une zone sur quelqu'un, si possible écarté vous de la zone bleu pour pas prendre de dégâts 
+- 3. Il va aussi faire 2 zone de compétences l'une au corps a corps et l'autre un peut à distance
+
+<p>Si vous n'arrivez pas à le tuer avant sa troisième phase vous serez tous transformé en poupée, vous aurez un symbole au dessus de la tête et devez vous positionnez sur la zone correspondant au symbole, et egallement imiter le meme skill que le MvP (si succès vous allez faire un émoji rond, si fail un émoji croix). Si les conditions sont réspéctée vous survivez, sinon vous mourrez. L'idéal serrait de le tuer avant cette phase pour plus de facilité.</p>
+
 ### Floor 3
+
+3 demonic observer 
+Première fasse le taper jusqu'à qui se mette en invulnérable 
+Ensuite il fais apparaître un cœur invulnérable et des monstres un mini et un mvp 
+Objectif tuer le mvp pour faire apparaître des boule rouge qui faut détruire pour rendre le cœur vulnérable puis tuer le cœur pour que le boss soit vulnérable 
+Compétences en brave 
+Il invoque des boule verte qui faut absolument détruire ou c'est os pour tous le monde 
+Il fais apparaître des flaque verte au sol ne pas marcher dedans dégât en continu
+Des tentacule vont vous attirer sur les côtés de la carte pour vous empêcher justement à accomplir les objectifs 
+Vous pourrez aussi être bloqué par un tentacule seul moyen de s'en sortir que quelqu'un la detruise 
+En légendaire la seul compétences qu'il a en plus de toute celle avant ces qu'il fais apparaître sur les personnes aléatoirement une zone bleu sur vous ou vos alliés cette zone bleu ne dois pas rentrer en contact avec les petite flaque verte au sol ou c'est 80% de votre vie a tous qui saute 2 coup tous le monde et mort 😂 voilà 😂✌
 
 ## Echoing Corridor
 
