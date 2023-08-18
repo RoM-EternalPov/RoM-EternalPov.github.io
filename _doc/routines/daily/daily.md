@@ -15,4 +15,11 @@ sections:
 <center><img src="../../../assets/images/routines/daily/cuisine_rare_item_1.png" style="max-width: 100%; height: auto;" alt="Cuisine Rare Item" /></center><br>
 <center><img src="../../../assets/images/routines/daily/cuisine_rare_item_2.png" style="max-width: 100%; height: auto;" alt="Cuisine Rare Item" /></center><br>
 
+<div class="callout-block callout-success"><div class="icon-holder">*&nbsp;*{: .fa .fa-thumbs-up}
+</div><div class="content">
+{: .callout-title}
+#### Tips
 
+Cette daily quest et les achats de rare item est très importante. A ne vraiment pas négliger. Plus vous progresserez dans le jeu, plus vous serrez en manque de food, c'est pourquoi il ne faut surtout pas négliger la partie cuisine des daily quest
+
+</div></div>
