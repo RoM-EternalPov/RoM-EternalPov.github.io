@@ -1,6 +1,5 @@
 ---
 layout: home
-bg: black
 title: Home
 tagline: |
   Together, we hit harder!
