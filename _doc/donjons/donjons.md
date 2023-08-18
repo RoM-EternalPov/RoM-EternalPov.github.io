@@ -1,14 +1,14 @@
 ---
 title: Donjons
 sections:
-  - Ponape Secret Realm (PSR)
+  - Ponape Secret Realm
   - Museum
   - Isle
   - Echoing Corridor
   - Void Territory
 ---
 
-## Ponape Secret Realm (PSR)
+## Ponape Secret Realm
 
 <p>Le Dragon revenant! Dès le début du combat, une résistance vous est attribuée entre poison est feu. Elle serra affichée sur le côté droit de l'écran, dans le menu regroupant les informations du donjon, a côté des hp du boss.</p>
 
