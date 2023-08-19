@@ -9,9 +9,26 @@ sections:
   - Void Territory
 ---
 
-## Thanatos Tower Legend
+## Table of Content
 
-### Floor 1
+* [Thanatos Tower Legend](#TTL)
+  * [Floor 1](#TTL-F1)
+  * [Floor 2](#TTL-F2)
+  * [Floor 3](#TTL-F3)
+  * [Floor 4](#TTL-F4)
+* [Museum](#Museum)
+  * [Floor 1](#Museum-1F)
+  * [Floor 2](#Museum-2F)
+  * [Floor 3](#Museum-3F)
+* [Isle](#Isle) 
+  * [Floor 1](#Isle-1F)
+  * [Floor 2](#Isle-2F)
+  * [Floor 3](#Isle-3F)
+* [Echoing Corridor](#EC)
+* [Void Territory](#Void)
+## Thanatos Tower Legend<a name="TTL"></a>
+
+### Floor 1<a name="TTL-F1"></a>
 
 <p>La Valkyrie! Complètement invulnérable à cause de 4 cristaux, 2 rouge et 2 bleu. Il faut qu'une personne (de préférence un tank ou un support) occupe la Valkyrie. Pour celà, il suffit de courir en rond en haut de la map et de la provoquer un minimum.</p>
 
@@ -41,7 +58,7 @@ Il existe deux possibilité pour s'en libérer :
 
 </div></div>
 
-### Floor 2
+### Floor 2<a name="TTL-F2"></a>
 
 <p>Le Tesseract! Taper le et éviter ces attaques de zones, les compétences/évenement suivantes serront lancée :</p>
 - Il lance des zone explosif au sol
@@ -65,7 +82,7 @@ Les seul moyen de s'en libérer sont :
 
 <p>Au bout de 19% HP, il devient invulnérable, une zone bleue apparaît en bas de la carte. Au bout de quelque secondes des cléfs spawn sur la carte à leur tour pour une courte durée avant d'apparaître à d'autres positions. Vous devez ramassez une clef puis la ramener dans la zone, et faire celà un total de cinq fois. Une fois celà fait, patienter pendant l'animation, le boss meurt et vous pourrez passer a l'étage suivant.</p>
 
-### Floor 3
+### Floor 3<a name="TTL-F3"></a>
 
 <p>Ici vous retrouverez 4 Boules, il faut que les plus gros DPS les ramassent pour pouvoir bien choisir leur zone de combat.</p>
 
@@ -83,7 +100,7 @@ Si tous le monde meurt à l'exterieur ou au centre, ou qu'une des deux zones n'e
 </div></div>
 
 
-### Floor 4
+### Floor 4<a name="TTL-F4"></a>
 
 <p>Thanatos et la prêtresse! Pour Thanatos, tapper le et éviter ces compétences. Deux compétences impossible a éviter :</p>
 - Le blocage pendant 20 seconde
@@ -105,7 +122,7 @@ Mais faites quand meme attentions, les monstres font de gros dégats dans cette 
 
 </div></div>
 
-## Ponape Secret Realm
+## Ponape Secret Realm<a name="Museum"></a>
 
 <p>Le Dragon revenant! Dès le début du combat, une résistance vous est attribuée entre poison est feu. Elle serra affichée sur le côté droit de l'écran, dans le menu regroupant les informations du donjon, a côté des hp du boss.</p>
 
@@ -121,7 +138,7 @@ Mais faites quand meme attentions, les monstres font de gros dégats dans cette 
 
 ## Museum
 
-### Floor 1
+### Floor 1<a name="Museum-1F"></a>
 
 <p>Le dragon! Il suffit de le taper tout en évitant ces deux compétences de zone. Une en face de lui et l'autre autour de lui.</p>
 
@@ -155,7 +172,7 @@ Impossible de retirer les stack de brulûre ou poison, sauf de mourir mais il y'
 
 </div></div>
 
-### Floor 2
+### Floor 2<a name="Museum-2F"></a>
 
 
 <p>Avant d'atteindre le second boss il vous faudra tuer des monstres pour protéger un PNJ. Une fois terminé il débloque le passage jusqu'au second boss</p>
@@ -184,7 +201,7 @@ Rock frappe la personne la plus proche de lui n'importe où sur la carte. Au bou
 
 </div></div>
 
-### Floor 3
+### Floor 3<a name="Museum-3F"></a>
 
 <p>Avant d'arriver au dernier boss exactement pareil protéger le pnj jusqu'à qu'il libère le chemin</p>
 
@@ -219,9 +236,9 @@ La compétence de meteore vous suis jusqu'à la fin de la partie, mais si vous m
 
 </div></div>
 
-## Isle
+## Isle<a name="Isle"></a>
 
-### Floor 1
+### Floor 1<a name="Isle-1F"></a>
 
 <p>Le Golem! Ces compétences :</p>
 - Deux rochers poser au sol avec un laser qui les rejoint. Zone dangereuse! Fuiyez les, elle donnent des dégâts en continu 
@@ -241,7 +258,7 @@ Penssez à le poser vers les autres rocher, rappeler vous que les rocher se lie 
 
 </div></div>
 
-### Floor 2
+### Floor 2<a name="Isle-2F"></a>
 
 <p>La poupée vaudoo chelou! Une fois le combat lancer, une personne au minimum devra rester prêt de lui si il ne peut attaquer personne il tuera tous le monde.</p>
 
@@ -252,7 +269,7 @@ Penssez à le poser vers les autres rocher, rappeler vous que les rocher se lie 
 
 <p>Si vous n'arrivez pas à le tuer avant sa troisième phase vous serez tous transformé en poupée, vous aurez un symbole au dessus de la tête et devez vous positionnez sur la zone correspondant au symbole, et egallement imiter le meme skill que le MvP (si succès vous allez faire un émoji rond, si fail un émoji croix). Si les conditions sont réspéctée vous survivez, sinon vous mourrez. L'idéal serrait de le tuer avant cette phase pour plus de facilité.</p>
 
-### Floor 3
+### Floor 3<a name="Isle-3F"></a>
 
 <p>Demonic observer! Taper le jusqu'à qu'il recule dans sa safe zone et se mette en invulnérable (autour des 70% de vie).</p>
 
@@ -282,7 +299,7 @@ Une fois le boss à 70% de sa vie en état d'invulnérabilité, dépêcher vous 
 Essayer de rester du côté opposé au tentacules, cela evitera de vous faire attraper.
 </div></div>
 
-## Echoing Corridor
+## Echoing Corridor<a name="EC"></a>
 
 ### Tarrot
 
@@ -434,7 +451,7 @@ Restez en mouvement!
 
 <center><img src="../../../assets/images/donjons/echoing_corridor/skill_split.png" style="max-width: 100%; height: auto;" alt="Split Skill" /></center><br>
 
-## Void Territory
+## Void Territory<a name="Void"></a>
 <br>
 <p>Ci-dessous vous trouverez des détails concernant Void Territory et les MvP qui y occupe.</p>
 
