@@ -64,7 +64,7 @@ Il existe deux possibilité pour s'en libérer :
 - Il lance des zone explosif au sol
 - Il invoque des monstres
 - Des mur de rayons laser, qui traverse la moitié de la carte
-- Des imple rayons laser qui vous suivents
+- Des simple rayons laser qui vous suivents
 - Il peut vous lier à une autre personne.
 
 <div class="callout-block callout-danger"><div class="icon-holder">*&nbsp;*{: .fa .fa-exclamation-triangle}
@@ -86,7 +86,7 @@ Les seul moyen de s'en libérer sont :
 
 <p>Ici vous retrouverez 4 Boules, il faut que les plus gros DPS les ramassent pour pouvoir bien choisir leur zone de combat.</p>
 
-<p>Pour les joueurs réstant n'ayant pas ramasser de boulles, vous aurez une zone a vos pied attribuée a une couleur, jaune vous devrez cibler le MvP au centre de la map, et violet vous devez affronter le MvP sur les bords de la map ou juste courrir car c'est le boss du centre qui compte réellement.</p>
+<p>Pour les joueurs réstant n'ayant pas ramasser de boulles, vous aurez une zone a vos pied attribuée a une couleur, violet vous devrez cibler le MvP au centre de la map, et jaune vous devez affronter le MvP sur les bords de la map ou juste courrir car c'est le boss du centre qui compte réellement.</p>
 
 <p>Si vous ne tuez pas les boss assez vite ils deviendront invulnérable, puis, le boss du centre invoquera trois petites tourres, il suffit de les casser pour le rendre à nouveau vulnérables.</p>
 
