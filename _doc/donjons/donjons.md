@@ -26,6 +26,7 @@ sections:
   * [Floor 3](#Isle-3F)
 * [Echoing Corridor](#EC)
 * [Void Territory](#Void)
+
 ## Thanatos Tower Legend<a name="TTL"></a>
 
 ### Floor 1<a name="TTL-F1"></a>
