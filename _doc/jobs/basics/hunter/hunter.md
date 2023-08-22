@@ -4,10 +4,6 @@ icon:
   type: fa
   name: fa-empire
 color: purple
-sections:
-  - PvE - Build AA Crit
-  - PvP - Build AA Crit
-  - PvE & PvP - Build TrapBurst
 ---
 
 ### PvE - Build AA Crit 
