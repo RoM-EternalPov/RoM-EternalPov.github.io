@@ -1,5 +1,6 @@
 ---
 title: Ponape Secret Realm (PSR)
+excerpt: Strategy, Tips and more...
 icon:
   type: fa
   name: fa-empire
