@@ -6,6 +6,13 @@ icon:
 color: purple
 ---
 
+## Table of Content
+
+- [Isle](#Isle) 
+  - [Floor 1](#Isle-1F)
+  - [Floor 2](#Isle-2F)
+  - [Floor 3](#Isle-3F)
+
 ## Isle<a name="Isle"></a>
 
 ### Floor 1<a name="Isle-1F"></a>
