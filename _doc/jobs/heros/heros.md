@@ -11,7 +11,7 @@ heading: Play for fun and growth to cum!
 icon:
   type: fa
   name: fa-empire
-color: red
+color: blue
 navigation:
   - /jobs/heros/thanatos/thanatos
 ---
