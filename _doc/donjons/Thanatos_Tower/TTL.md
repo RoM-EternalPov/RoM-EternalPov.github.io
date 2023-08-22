@@ -1,11 +1,20 @@
 ---
 title: Thanatos Tower
+excerpt: Strategy, Tips and more...
 icon:
   type: fa
   name: fa-empire
 color: purple
 ---
 
+## Table of Content
+
+- [Thanatos Tower Legend](#TTL)
+  - [Floor 1](#TTL-F1)
+  - [Floor 2](#TTL-F2)
+  - [Floor 3](#TTL-F3)
+  - [Floor 4](#TTL-F4)
+  
 ## Thanatos Tower Legend<a name="TTL"></a>
 
 ### Floor 1<a name="TTL-F1"></a>
