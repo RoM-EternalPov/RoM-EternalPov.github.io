@@ -1,5 +1,6 @@
 ---
 title: Void Territory
+excerpt: Strategy, Tips and more...
 icon:
   type: fa
   name: fa-empire
@@ -9,12 +10,14 @@ color: purple
 ## Table of Content
 
 - [Void Territory](#Void)
+  - [Zanubia](#Zanubia)
+  - [Witch of Calamity](#Witch)
 
 ## Void Territory<a name="Void"></a>
 <br>
 <p>Ci-dessous vous trouverez des détails concernant Void Territory et les MvP qui y occupe.</p>
 
-### Zanubia
+### Zanubia<a name="Zanubia"></a>
 <br>
 #### Invocation
 
@@ -22,7 +25,7 @@ color: purple
 
 <center><img src="../../../../assets/images/donjons/void/invocation_zanubia.gif" style="max-width: 100%; height: auto;" alt="Invocation Zanubia" /></center><br>
 
-### Witch of Calamity
+### Witch of Calamity<a name="Witch"></a>
 <br>
 #### Invocation
 
