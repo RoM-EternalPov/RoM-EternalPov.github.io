@@ -1,3 +1,11 @@
+---
+title: Thanatos Tower
+icon:
+  type: fa
+  name: fa-empire
+color: purple
+---
+
 ## Thanatos Tower Legend<a name="TTL"></a>
 
 ### Floor 1<a name="TTL-F1"></a>
