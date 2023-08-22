@@ -1,3 +1,11 @@
+---
+title: Isle
+icon:
+  type: fa
+  name: fa-empire
+color: purple
+---
+
 ## Isle<a name="Isle"></a>
 
 ### Floor 1<a name="Isle-1F"></a>
