@@ -6,5 +6,5 @@ icon:
   name: fa-empire
 color: red
 sections:
-  - /jobs/heros/thanatos/thanatos
+  - /thanatos/thanatos
 ---
