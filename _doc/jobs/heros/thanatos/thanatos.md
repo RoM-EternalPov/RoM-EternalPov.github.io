@@ -1,7 +1,9 @@
 ---
 title: Thanatos
-sections:
-  - Build PvE DPS
+icon:
+  type: fa
+  name: fa-empire
+color: purple
 ---
 
 ### Build PvE DPS
