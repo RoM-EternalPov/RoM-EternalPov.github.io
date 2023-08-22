@@ -13,6 +13,6 @@ icon:
   name: fa-user-secret
 color: green
 navigation:
-  - /basics
-  - /heros
+  - /basics/basics
+  - /heros/heros
 ---
