@@ -10,8 +10,8 @@ tagline: |
 heading: Play for fun and growth to cum!
 icon:
   type: fa
-  name: fa-user-secret
-color: green
+  name: fa-empire
+color: purple
 navigation:
   - /donjons/void_territory/void
   - /donjons/Ponape_Secret_Realm/psr
