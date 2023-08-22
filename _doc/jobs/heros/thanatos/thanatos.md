@@ -7,9 +7,9 @@ color: purple
 ---
 
 ### Build PvE DPS
-<br>
+
 ### Stats
-<br>
+
 <table width="100%" border="1" cellspacing="1" cellpadding="1" >
 <tr><td><div align="center"><b>Stat</b></div> </td>
 <td><div align="center"><b>Montant</b></div> </td>
