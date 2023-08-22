@@ -1,3 +1,11 @@
+---
+title: Void Territory
+icon:
+  type: fa
+  name: fa-empire
+color: purple
+---
+
 ## Void Territory<a name="Void"></a>
 <br>
 <p>Ci-dessous vous trouverez des détails concernant Void Territory et les MvP qui y occupe.</p>
