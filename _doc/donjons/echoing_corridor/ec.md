@@ -1,3 +1,11 @@
+---
+title: Echoing Corridor
+icon:
+  type: fa
+  name: fa-empire
+color: purple
+---
+
 ## Echoing Corridor<a name="EC"></a>
 
 ### Tarrot
