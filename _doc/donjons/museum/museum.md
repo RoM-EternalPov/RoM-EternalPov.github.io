@@ -1,5 +1,5 @@
 ---
-title: Void Territory
+title: Museum
 icon:
   type: fa
   name: fa-empire
