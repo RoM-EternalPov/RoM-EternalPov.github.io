@@ -10,8 +10,8 @@ tagline: |
 heading: Play for fun and growth to cum!
 icon:
   type: fa
-  name: fa-empire
-color: blue
+  name: fa-user-secret
+color: green
 navigation:
   - /jobs/heros/thanatos/thanatos
 ---
