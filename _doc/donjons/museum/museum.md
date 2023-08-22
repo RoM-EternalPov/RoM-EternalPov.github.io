@@ -6,6 +6,13 @@ icon:
 color: purple
 ---
 
+## Table of Content
+
+- [Museum](#Museum)
+  - [Floor 1](#Museum-1F)
+  - [Floor 2](#Museum-2F)
+  - [Floor 3](#Museum-3F)
+    
 ## Museum
 
 ### Floor 1<a name="Museum-1F"></a>
