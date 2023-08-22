@@ -13,5 +13,5 @@ icon:
   name: fa-rebel
 color: blue
 navigation:
-  - /hunter/hunter
+  - /jobs/basics/hunter/hunter
 ---
