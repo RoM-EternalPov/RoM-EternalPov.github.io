@@ -6,6 +6,10 @@ icon:
 color: purple
 ---
 
+## Table of Content
+
+- [Echoing Corridor](#EC)
+  
 ## Echoing Corridor<a name="EC"></a>
 
 ### Tarrot
