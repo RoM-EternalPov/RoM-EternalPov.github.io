@@ -1,3 +1,11 @@
+---
+title: Void Territory
+icon:
+  type: fa
+  name: fa-empire
+color: purple
+---
+
 ## Museum
 
 ### Floor 1<a name="Museum-1F"></a>
