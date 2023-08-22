@@ -1,10 +1,22 @@
 ---
+layout: home
 title: Donjons
-excerpt: Coming soon
+excerpt: Instances Strategy, tips and more
+tagline: |
+  Together, we hit harder!
+  
+  Written with *&nbsp;*{: .fa .fa-heart} for RoM players!
+  
+heading: Play for fun and growth to cum!
 icon:
   type: fa
-  name: fa-empire
-color: purple
-sections:
-  - /donjons/donjons
+  name: fa-user-secret
+color: green
+navigation:
+  - /donjons/void_territory/void
+  - /donjons/Ponape_Secret_Realm/psr
+  - /donjons/museum/museum
+  - /donjons/isle/isle
+  - /donjons/Thanatos_Tower/TTL
+  - /donjons/echoing_corridor/ec
 ---
