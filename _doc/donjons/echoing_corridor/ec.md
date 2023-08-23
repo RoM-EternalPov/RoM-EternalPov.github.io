@@ -12,14 +12,14 @@ color: purple
 - [Echoing Corridor](#EC)
 <details>
 <summary>
-- [Tarrot](#Tarrot)
+[Tarrot](#Tarrot)
 </summary>
   - [Eternity Map](#Eternity)
   - [One Corridor Key](#Key)
 </details>
 <details>
 <summary>
-- [Competences](#Competences)
+[Competences](#Competences)
 </summary>
   - [Stare](#Stare)
   - [Enslave](#Enslave)
