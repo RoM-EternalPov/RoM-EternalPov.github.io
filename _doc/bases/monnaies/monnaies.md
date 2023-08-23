@@ -33,13 +33,13 @@ color: purple
 
 <p>Les Brave Holy Emblem, obtenu via Echoing Corridor, permet d'acheter divers objet (avec une limite weekly) comme des praying cards, runes star, oracle crystals et plus.</p>
 
-<center><img src="../../../../assets/images/bases/Brave_holy_emblem.png" style="max-width: 100%; height: auto;" alt="Brave Holy Emblem" /></center><br>
+<center><img src="../../../../assets/images/bases/monnaies/Brave_holy_emblem.png" style="max-width: 100%; height: auto;" alt="Brave Holy Emblem" /></center><br>
 
 ### Mora Gold Coin
 
 <p>Les Mora Gold Coin, obtenue principalement en faisant des MvP/Void ou Oracle et Echoing Corridor. Monnaies pour acheter des pierre d'enchantement avec 4ème ligne garantie, ou pour booster la chance d'avoir un bon enchantement sur votre équipement</p>
 
-<center><img src="../../../../assets/images/donjons/void/mora_gold_coin.png" style="max-width: 100%; height: auto;" alt="Mora Gold" /></center><br>
+<center><img src="../../../../assets/images/bases/monnaies/mora_gold_coin.png" style="max-width: 100%; height: auto;" alt="Mora Gold" /></center><br>
 
 
 
