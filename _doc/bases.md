@@ -13,5 +13,5 @@ icon:
   name: fa-user-secret
 color: green
 navigation:
-  - /bases/bases
+  - /bases/monnaies/monnaies
 ---
