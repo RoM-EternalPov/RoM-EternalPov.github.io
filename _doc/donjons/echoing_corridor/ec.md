@@ -12,8 +12,11 @@ color: purple
 - [Echoing Corridor](#EC)
 <details>
 <summary>
-  
-<nobr><font color="blue">- PRESS</font> [Tarrot](#Tarrot)</nobr>
+
+<nobr>
+<font color="blue">- PRESS </font>
+- [Tarrot](#Tarrot)
+</nobr>
 
 </summary>
   - [Eternity Map](#Eternity)
@@ -22,7 +25,10 @@ color: purple
 <details>
 <summary>
 
-<nobr><font color="blue">- PRESS</font> [Competences](#Competences)</nobr>
+<nobr>
+<font color="blue">- PRESS </font>
+- [Competences](#Competences)
+</nobr>
 
 </summary>
   - [Stare](#Stare)
