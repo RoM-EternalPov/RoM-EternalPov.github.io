@@ -1,6 +1,6 @@
 ---
 title: Tips
-excerpt: Coming Soon
+excerpt: Tips and tricks
 icon:
   name: fa fa-thumbs-o-up
 color: pink
