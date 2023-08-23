@@ -4,7 +4,7 @@ sections:
   - Les Weekly
   - Un gros pack de Recharge
   - Fortune Coins
-  - Armorie de Guilde
+  - Armoire de Guilde
   - Cloud Sea Archipelago
 ---
 
