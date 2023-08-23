@@ -1,7 +1,7 @@
 ---
 title: Player VS Player (PvP)
 short_title: PvP
-excerpt: Coming Soon
+excerpt: 6v6 and 12v12 ranked
 icon:
   type: fa
   name: fa-rebel
