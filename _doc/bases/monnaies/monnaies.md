@@ -1,8 +1,10 @@
 ---
-title: Weekly
-sections:
-  - Les Zeny
-  - Les Adventure Riceball
+title: Les Monnaies
+excerpt: Zeny, Adventure Riceballs, Fortune coin and more!
+icon:
+  type: fa
+  name: fa-empire
+color: purple
 ---
 
 ## Les Monnaies
