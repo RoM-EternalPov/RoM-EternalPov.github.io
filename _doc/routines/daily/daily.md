@@ -30,7 +30,7 @@ TO DO
 <br>
 <p>Dans la boutique d'enchant vous pouvez acheter des pierres pour acheter des ticket d'enchantement. Libre a vous du jusqu a quel prix vous etes prêt a les acheter, personellement je prend le premier a 30 mora gold, et les 2 prochains a 45 mora gold.</p>
 
-<center><img src="../../../assets/images/routines/daily/more_gold_coin.png" style="max-width: 100%; height: auto;" alt="Pierre enchant mora gold" /></center><br>
+<center><img src="../../../assets/images/routines/daily/mora_gold_coin.png" style="max-width: 100%; height: auto;" alt="Pierre enchant mora gold" /></center><br>
 
 ## Food
 <br>
