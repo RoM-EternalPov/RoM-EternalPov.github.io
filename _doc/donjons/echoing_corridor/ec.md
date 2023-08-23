@@ -10,7 +10,7 @@ color: purple
 ## Table of Content
 
 - [Echoing Corridor](#EC)
-<details>[Tarrot](#Tarrot)</summary>
+<details><summary>[Tarrot](#Tarrot)</summary>
   - [Eternity Map](#Eternity)
   - [One Corridor Key](#Key)
 </details>
