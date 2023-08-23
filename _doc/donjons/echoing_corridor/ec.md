@@ -12,12 +12,10 @@ color: purple
 - [Echoing Corridor](#EC)
 <details>
 <summary>
-
 <nobr>
-<font color="blue">- PRESS </font>
-- [Tarrot](#Tarrot)
+- <font color="blue">PRESS </font>
+[Tarrot](#Tarrot)
 </nobr>
-
 </summary>
   - [Eternity Map](#Eternity)
   - [One Corridor Key](#Key)
