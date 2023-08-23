@@ -1,8 +1,32 @@
 ---
 title: Daily
 sections:
+  - Armoire de Guilde
+  - Musique
+  - Tableau de Quêtes
+  - Pierre d'enchantement
   - Food
+  - Cloud Sea Archipelago
+  - Runes Shop
+  - Relics Shop
+  - Brave Holy Emblem Shop
 ---
+
+## Armoire de Guilde
+<br>
+<p> Si vous avez des honnor proof réstant après vos achats de <font color="red"><b>20 Praying Cards</b></font>, sa peut etre intéréssant de prendre <font color="red"><b>1x Broken Repairing Shard</b></font> par jours, cela vous permettra d'avoir un crystal pour reparer des hat par mois.</p>
+
+## Musique
+<br>
+TO DO
+
+## Tableau de Quêtes
+<br>
+<p>A faire sur les 3 persos du comptes, la daily quest est repetable sur chaque perso se qui vous recompense de mora coin. Vous pouvez utiliser des <font color="red"><b>Adventure Riceball</b></font> pour accomplir ces quetes instantanément.</p>
+
+## Pierre d'enchantement
+<br>
+<p>Dans la boutique d'enchant vous pouvez acheter des pierres pour acheter des ticket d'enchantement. Libre a vous du jusqu a quel prix vous etes prêt a les acheter, personellement je prend le premier a 30 mora gold, et les 2 prochains a 45 mora gold.</p>
 
 ## Food
 <br>
@@ -23,3 +47,19 @@ sections:
 Cette daily quest et les achats de rare item est très importante. A ne vraiment pas négliger. Plus vous progresserez dans le jeu, plus vous serrez en manque de food, c'est pourquoi il ne faut surtout pas négliger la partie cuisine des daily quest
 
 </div></div>
+
+## Cloud Sea Archipelago
+<br>
+<p>Vous pouvez acheter <font color="red"><b>100 Adventure Riceball</b></font> par jours en utilisant les <font color="red"><b>Fantasy Crystal</b></font></p>
+
+## Runes Shop
+<br>
+<p>Libre de vos choix, mais ne dépenssez pas les Gold Medals / Contributions temps que votre Aesir n'est pas au maximum.</p>
+
+## Relics Shop
+<br>
+<p>Si vous avez pas mal de Zeny, vous pouvez prendre <font color="red"><b>24x Svartalf Normal Dust</b></font> pour les relics</p>
+
+## Brave Holy Emblem Shop
+<br>
+<p>A vos choix! Personellement j'opte pour les 2 runes Star, 10x oracle mirror crystal et le reste en praying cards</p>
