@@ -10,12 +10,14 @@ color: purple
 ## Table of Content
 
 - [Echoing Corridor](#EC)
-<details><summary>[Tarrot](#Tarrot)
+<details><summary>
+  [Tarrot](#Tarrot)
 </summary>
   - [Eternity Map](#Eternity)
   - [One Corridor Key](#Key)
 </details>
-<details><summary>[Competences](#Competences)
+<details><summary>
+  [Competences](#Competences)
 </summary>
   - [Stare](#Stare)
   - [Enslave](#Enslave)
