@@ -3,7 +3,7 @@ title: Hunter
 excerpt: Build, Stats, Skills and more...
 icon:
   type: fa
-  name: fa-empire
+  name: fa-rebel
 color: purple
 ---
 
