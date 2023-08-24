@@ -1,11 +1,10 @@
 ---
 title: Weekly
-sections:
-  - Les Weekly
-  - Un gros pack de Recharge
-  - Fortune Coins
-  - Armoire de Guilde
-  - Cloud Sea Archipelago
+excerpt: Recharge pack, Fortune Coins, Runes et plus!
+icon:
+  type: fa
+  name: fa-empire
+color: purple
 ---
 
 ## Les Weekly
