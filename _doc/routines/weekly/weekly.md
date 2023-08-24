@@ -3,7 +3,7 @@ title: Weekly
 excerpt: Recharge pack, Fortune Coins, Runes et plus!
 icon:
   type: fa
-  name: fa-empire
+  name: fa-check-square-o
 color: purple
 ---
 
