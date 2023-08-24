@@ -10,8 +10,8 @@ tagline: |
 heading: Play for fun and growth to cum!
 icon:
   type: fa
-  name: fa-user-secret
-color: green
+  name: fa-universal-access
+color: black
 navigation:
   - /bases/monnaies/monnaies
 ---
