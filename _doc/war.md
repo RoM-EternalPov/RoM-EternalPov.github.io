@@ -10,8 +10,8 @@ tagline: |
 heading: Play for fun and growth to cum!
 icon:
   type: fa
-  name: fa-first-order
-color: orange
+  name: fa-empire
+color: red
 navigation:
   - /
 ---
