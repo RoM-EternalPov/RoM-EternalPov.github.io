@@ -3,8 +3,8 @@ title: Les Monnaies
 excerpt: Zeny, Adventure Riceballs, Fortune coin and more!
 icon:
   type: fa
-  name: fa-empire
-color: purple
+  name: fa-money
+color: yellow
 ---
 
 ## Les Monnaies
