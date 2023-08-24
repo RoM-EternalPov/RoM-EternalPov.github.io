@@ -11,7 +11,7 @@ heading: Play for fun and growth to cum!
 icon:
   type: fa
   name: fa-universal-access
-color: black
+color: green
 navigation:
   - /bases/monnaies/monnaies
 ---
