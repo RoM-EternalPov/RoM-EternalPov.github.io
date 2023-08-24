@@ -4,7 +4,7 @@ excerpt: Zeny, Adventure Riceballs, Fortune coin and more!
 icon:
   type: fa
   name: fa-money
-color: yellow
+color: orange
 ---
 
 ## Les Monnaies
