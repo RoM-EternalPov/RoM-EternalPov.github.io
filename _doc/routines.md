@@ -11,7 +11,7 @@ heading: Play for fun and growth to cum!
 icon:
   type: fa
   name: fa-check-square-o
-color: pink
+color: primary
 navigation:
   - /routines/daily/daily
   - /routines/weekly/weekly
