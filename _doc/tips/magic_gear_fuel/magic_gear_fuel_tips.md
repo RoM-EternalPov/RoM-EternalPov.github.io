@@ -4,7 +4,7 @@ excerpt: Farming tips
 icon:
   type: fa
   name: fa-thumbs-o-up
-color: green
+color: pink
 ---
 
 ## Magic Gear Fuel
