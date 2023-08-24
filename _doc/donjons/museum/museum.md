@@ -3,7 +3,7 @@ title: Museum
 excerpt: Strategy, Tips and more...
 icon:
   type: fa
-  name: fa-empire
+  name: fa-first-order
 color: purple
 ---
 
