@@ -4,7 +4,7 @@ excerpt: Build, Stats, Skills and more...
 icon:
   type: fa
   name: fa-rebel
-color: purple
+color: blue
 ---
 
 ### PvE - Build AA Crit 
