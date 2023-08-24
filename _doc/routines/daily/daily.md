@@ -4,7 +4,7 @@ excerpt: Musique, Table de Quêtes, Daily Shopping et plus!
 icon:
   type: fa
   name: fa-check-square-o
-color: purple
+color: pink
 ---
 
 ## Armoire de Guilde
