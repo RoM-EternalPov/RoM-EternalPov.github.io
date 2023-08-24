@@ -11,7 +11,7 @@ heading: Play for fun and growth to cum!
 icon:
   type: fa
   name: fa-wrench
-color: blue
+color: pink
 navigation:
   - /
 ---
