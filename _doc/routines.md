@@ -10,7 +10,7 @@ tagline: |
 heading: Play for fun and growth to cum!
 icon:
   type: fa
-  name: fa-history
+  name: fa-check-square-o
 color: pink
 navigation:
   - /routines/daily/daily
