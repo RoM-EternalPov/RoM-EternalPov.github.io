@@ -4,7 +4,7 @@ excerpt: Recharge pack, Fortune Coins, Runes et plus!
 icon:
   type: fa
   name: fa-check-square-o
-color: pink
+color: primary
 ---
 
 ## Les Weekly
