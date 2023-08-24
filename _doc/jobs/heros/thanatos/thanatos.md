@@ -4,7 +4,7 @@ excerpt: Build, Stats, Skills and more...
 icon:
   type: fa
   name: fa-empire
-color: purple
+color: red
 ---
 
 ### Build PvE DPS
