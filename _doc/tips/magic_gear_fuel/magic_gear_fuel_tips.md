@@ -3,8 +3,8 @@ title: Magic Gear Fuel
 excerpt: Farming tips
 icon:
   type: fa
-  name: fa-rebel
-color: purple
+  name: fa-thumbs-o-up
+color: green
 ---
 
 ## Magic Gear Fuel
