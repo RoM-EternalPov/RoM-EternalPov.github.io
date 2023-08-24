@@ -1,6 +1,6 @@
 ---
-title: Quests
-excerpt: Quests tips, secrets and more...
+title: Topics
+excerpt: Quests, tips, secrets and more...
 icon:
   type: fa
   name: fa-wrench
