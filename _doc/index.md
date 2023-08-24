@@ -11,7 +11,7 @@ navigation:
   - /bases
   - /jobs
   - /routines
-  - /quests
+  - /topics
   - /donjons
   - /pvp
   - /war
