@@ -11,10 +11,10 @@ navigation:
   - /bases
   - /jobs
   - /routines
-  - /topics
   - /donjons
-  - /pvp
   - /war
+  - /pvp
+  - /topics
   - /tips
 ---
 
