@@ -1,15 +1,10 @@
 ---
 title: Daily
-sections:
-  - Armoire de Guilde
-  - Musique
-  - Tableau de Quêtes
-  - Pierre d'enchantement
-  - Food
-  - Cloud Sea Archipelago
-  - Runes Shop
-  - Relics Shop
-  - Brave Holy Emblem Shop
+excerpt: Musique, Table de Quêtes, Daily Shopping et plus!
+icon:
+  type: fa
+  name: fa-empire
+color: purple
 ---
 
 ## Armoire de Guilde
