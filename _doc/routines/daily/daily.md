@@ -3,7 +3,7 @@ title: Daily
 excerpt: Musique, Table de Quêtes, Daily Shopping et plus!
 icon:
   type: fa
-  name: fa-empire
+  name: fa-check-square-o
 color: purple
 ---
 
