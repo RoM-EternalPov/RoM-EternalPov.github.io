@@ -13,6 +13,6 @@ icon:
   name: fa-history
 color: pink
 navigation:
-  - /daily
-  - /weekly
+  - /routines/daily/daily
+  - /routines/weekly/weekly
 ---
