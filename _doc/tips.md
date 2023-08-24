@@ -11,7 +11,7 @@ heading: Play for fun and growth to cum!
 icon:
   type: fa
   name: fa-thumbs-o-up
-color: green
+color: pink
 navigation:
   - /tips/magic_gear_fuel/magic_gear_fuel_tips
 ---
