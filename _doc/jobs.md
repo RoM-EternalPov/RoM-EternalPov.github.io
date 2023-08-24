@@ -10,7 +10,7 @@ tagline: |
 heading: Play for fun and growth to cum!
 icon:
   type: fa
-  name: fa-user-secret
+  name: fa-users
 color: green
 navigation:
   - /jobs/basics/basics
