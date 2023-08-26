@@ -14,4 +14,5 @@ icon:
 color: green
 navigation:
   - /bases/monnaies/monnaies
+  - /bases/food/food
 ---
