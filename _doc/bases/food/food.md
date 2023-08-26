@@ -19,7 +19,7 @@ color: orange
 
 ### Les Meal A/B
 
-<p>Les Meal A/B peuvent s'acheter au NPC <font color="red"><b>Item Shop</b></font>. Il existe une food par stats STR/AGI/INT/VIT/DEX/LUK, et chaque food à une durée de 30minutes, aussi elles sont stackable en therme de temps.</font></p>
+<p>Les Meal A/B peuvent s'acheter au NPC <font color="red"><b>Item Shop</b></font>. Il existe une food par stats STR/AGI/INT/VIT/DEX/LUK, et chaque food à une durée de 30minutes, aussi elles sont stackable au niveau de la durée.</font></p>
 
 ### Food Elemental
 
