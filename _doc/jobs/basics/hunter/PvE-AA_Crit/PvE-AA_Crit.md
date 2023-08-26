@@ -1,5 +1,5 @@
 ---
-title: Hunter
+title: PvE Auto Attack Critical
 excerpt: Build, Stats, Skills and more...
 icon:
   type: fa
@@ -39,23 +39,23 @@ color: blue
 
 #### Archer
 
-<img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/skills_0.png" style="max-width: 100%; height: auto;" alt="Skills AA Crit" />
+<img src="../../../../assets/images/jobs/hunter/PvE_AA_Crit/skills_0.png" style="max-width: 100%; height: auto;" alt="Skills AA Crit" />
 
 #### Hunter
 
-<img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/skills_1.png" style="max-width: 100%; height: auto;" alt="Skills AA Crit" />
+<img src="../../../../assets/images/jobs/hunter/PvE_AA_Crit/skills_1.png" style="max-width: 100%; height: auto;" alt="Skills AA Crit" />
 
 #### Sniper
 
-<img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/skills_2.png" style="max-width: 100%; height: auto;" alt="Skills AA Crit" />
+<img src="../../../../assets/images/jobs/hunter/PvE_AA_Crit/skills_2.png" style="max-width: 100%; height: auto;" alt="Skills AA Crit" />
 
 #### Ranger
 
-<img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/skills_3.png" style="max-width: 100%; height: auto;" alt="Skills AA Crit" />
+<img src="../../../../assets/images/jobs/hunter/PvE_AA_Crit/skills_3.png" style="max-width: 100%; height: auto;" alt="Skills AA Crit" />
 
 ### Stuff
 
-<img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/Hunter_PvE_AA_Crit_Build.png" style="max-width: 100%; height: auto;" alt="Stuff AA Crit" /><br><br>
+<img src="../../../../assets/images/jobs/hunter/PvE_AA_Crit/Hunter_PvE_AA_Crit_Build.png" style="max-width: 100%; height: auto;" alt="Stuff AA Crit" /><br><br>
 
 <div class="callout-block callout-success"><div class="icon-holder">*&nbsp;*{: .fa .fa-thumbs-up}
 </div><div class="content">
@@ -66,7 +66,7 @@ Si vous avez assez de Critical DMG, les headwears suivant peuvent être une alte
 
 </div></div>
 
-<img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/headwear_0.png" style="max-width: 100%; height: auto;" alt="Stuff AA Crit" />
+<img src="../../../../assets/images/jobs/hunter/PvE_AA_Crit/headwear_0.png" style="max-width: 100%; height: auto;" alt="Stuff AA Crit" />
 
 ### Shadow Equipments
 
@@ -74,12 +74,12 @@ Coming Soon
 
 ### Relics
 
-<img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/relics.png" style="max-width: 100%; height: auto;" alt="Relics AA Crit" />
+<img src="../../../../assets/images/jobs/hunter/PvE_AA_Crit/relics.png" style="max-width: 100%; height: auto;" alt="Relics AA Crit" />
 
 
 ### Runes
 
-<img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/runes_0.png" style="max-width: 100%; height: auto;" alt="Runes AA Crit" /><br><br>
+<img src="../../../../assets/images/jobs/hunter/PvE_AA_Crit/runes_0.png" style="max-width: 100%; height: auto;" alt="Runes AA Crit" /><br><br>
 
 <div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
 </div><div class="content">
@@ -90,7 +90,7 @@ Les trois runes suivantes sont indispensables pour assurer un maximum de DPS.
 
 </div></div>
 
-<img src="../../../assets/images/jobs/hunter/PvE_AA_Crit/runes_1.png" style="max-width: 100%; height: auto;" alt="Runes AA Crit" />
+<img src="../../../../assets/images/jobs/hunter/PvE_AA_Crit/runes_1.png" style="max-width: 100%; height: auto;" alt="Runes AA Crit" />
 
 ### Praying & Others
 
