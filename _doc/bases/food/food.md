@@ -17,6 +17,7 @@ color: orange
 
 ### La Cuisine
 <br>
+<p>Pour commencer vous devez faire la quête pour débloquer votre manuel de cuisine et obtenir vos certificats de niveau 1. Pour ce faire rendez vous en cuisine pour accomplire les quêtes!</p>
 
 #### Certificats
 <br>
@@ -26,9 +27,11 @@ color: orange
 <br>
 <center><img src="../../../../assets/images/bases/foods/cuisine_cert.png" style="max-width: 100%; height: auto;" alt="Certificat Cuisine" /></center><br>
 
+<p>Pour monter vos niveau rien de plus simple, pour le certificat de cooking vous devez créer des platset pour le niveau de taste, il suffit de vous nourrire de vos plâts. Lisez les deux chapitres suivants pour savoir comment.</p>
+
 #### Préparation
 <br>
-<p>To do</p>
+<p>Pour créer des plats diriger vous dans votre sac, vous y trouverer votre manuel de cuisine, utiliser le, choisissez vos plâts et cuisinez!</p>
 
 #### Dégustation
 <br>
