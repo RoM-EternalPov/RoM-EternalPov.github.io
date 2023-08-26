@@ -66,7 +66,7 @@ Coming Soon
 #### Praying Cards
 
 Offensivement priorisé : <font color="red"><b>Pen , Ignore Def, Atk, M.Atk, Neutral Atk et Refine Atk</b></font><br>
-Pour les élément priorisé : <font color="yellow"><b>Holy en priorité, water, fire, wind, earth</b></font>
+Pour les élément priorisé : <font color="yellow"><b>Dark en priorité puis Holy, water, fire, wind, earth</b></font>
 
 </div></div>
 
