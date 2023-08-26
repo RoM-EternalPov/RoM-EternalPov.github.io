@@ -27,3 +27,11 @@ color: orange
 
 ### GvG Food
 
+<div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
+</div><div class="content">
+{: .callout-title}
+#### Info
+
+Référer vous au guide War of Emperium (Coming Soon)
+
+</div></div>
