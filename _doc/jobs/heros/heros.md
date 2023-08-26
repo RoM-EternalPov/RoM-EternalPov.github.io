@@ -14,4 +14,5 @@ icon:
 color: red
 navigation:
   - /jobs/heros/thanatos/thanatos
+  - /jobs/heros/niddhogg/niddhogg
 ---
