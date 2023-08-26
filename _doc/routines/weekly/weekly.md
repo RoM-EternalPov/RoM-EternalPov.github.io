@@ -31,3 +31,29 @@ color: primary
 ## Cloud Sea Archipelago
 <br>
 <p>Libre de vos choix, personellement je prend les Runes, les mora et les poudres de relics, les deux pieces pour forger du stuff peuvent etre interessante aussi</p>
+
+## Pierre d'enchantement
+<br>
+<p>Dans la boutique d'enchant vous pouvez acheter des pierres pour acheter des ticket d'enchantement. Libre a vous du jusqu a quel prix vous etes prêt a les acheter, personellement je prend le premier a 30 mora gold, et les 2 prochains a 45 mora gold.</p>
+
+<center><img src="../../../assets/images/routines/daily/mora_gold_coin.png" style="max-width: 100%; height: auto;" alt="Pierre enchant mora gold" /></center><br>
+
+## Runes Shop
+<br>
+<p>Libre de vos choix, mais ne dépenssez pas les Gold Medals / Contributions temps que votre Aesir n'est pas au maximum.</p>
+
+<center><img src="../../../assets/images/routines/daily/runes_shop.png" style="max-width: 100%; height: auto;" alt="Runes Shop" /></center><br>
+
+## Relics Shop
+<br>
+<p>Si vous avez pas mal de Zeny, vous pouvez prendre <font color="red"><b>24x Svartalf Normal Dust</b></font> pour les relics</p>
+
+<center><img src="../../../assets/images/routines/daily/relics_shop.png" style="max-width: 100%; height: auto;" alt="Relics Shop" /></center><br>
+
+## Brave Holy Emblem Shop
+<br>
+<p>A vos choix! Personellement j'opte pour les 2 runes Star, 10x oracle mirror crystal et le reste en praying cards</p>
+
+<center><img src="../../../assets/images/routines/daily/Brave_holy_emblem.png" style="max-width: 100%; height: auto;" alt="Brave Holy Emblem Shop" /></center><br>
+
+
