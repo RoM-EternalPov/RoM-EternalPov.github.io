@@ -1,3 +1,12 @@
+---
+title: Les Food
+excerpt: Cuisine, Meal, Size stone et plus!
+icon:
+  type: fa
+  name: fa-pizza
+color: orange
+---
+
 ## La Food
 
 <p>Il existe beaucoup de type de food, les consomables comme les <font color="red><b>Meal B</b></font>, <font color="red><b>Expert Precision Stone</b></font>, <font color="red><b>Les Pierres d'element</b></font> et d'autres...</p>
