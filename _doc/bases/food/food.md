@@ -33,6 +33,25 @@ color: orange
 
 <center><img src="../../../../assets/images/bases/foods/cuisine_eat.png" style="max-width: 100%; height: auto;" alt="Eat Cuisine" /></center><br>
 
+
+<div class="callout-block callout-success"><div class="icon-holder">*&nbsp;*{: .fa .fa-thumbs-up}
+</div><div class="content">
+{: .callout-title}
+#### Tips
+
+Vous pouvez préparer des milliers et des milliers de food 1 star, puis les manger par milliers. La food augmente les HP et SP discharge, c'est un petit stock qui vous redonne des HP/SP une fois franchis la barre des 40% HP/SP. Pour les classes qui utilises beaucoups des skills et beaucoup de mana, celà vous permet de ne JAMAIS tombers sous les 40% SP en assumant que vous arrivez a farm assez d'ingrédient, à ce sujet regardez la bulle d'info suivante.
+
+</div></div>
+
+<div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
+</div><div class="content">
+{: .callout-title}
+#### Info
+
+Référer vous au guide <a href="../../routines/daily/daily.html#Food">Daily pour récolter des ingrédients rare de cuisines tous les jours!</a>
+
+</div></div>
+
 ### Les Meal A/B
 
 <p>Les Meal A/B peuvent s'acheter au NPC <font color="red"><b>Item Shop</b></font>. Il existe une food par stats STR/AGI/INT/VIT/DEX/LUK, et chaque food à une durée de 30minutes, aussi elles sont stackable au niveau de la durée.</font></p>
