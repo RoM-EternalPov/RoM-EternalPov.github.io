@@ -13,5 +13,5 @@ icon:
   name: fa-rebel
 color: blue
 navigation:
-  - /jobs/heros/thanatos/thanatos
+  - /jobs/heros/thanatos/PvE-DPS/PvE-DPS
 ---
