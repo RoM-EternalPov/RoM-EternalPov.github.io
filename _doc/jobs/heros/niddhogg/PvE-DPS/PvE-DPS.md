@@ -38,21 +38,45 @@ color: red
 <td><div align="center"><font color="green"><b></b></font></div></td></tr>
 </table>
 
+### Skills
+<br>
+
+#### Config Gameplay Manuel
+<br>
+<img src="../../../../assets/images/jobs/heros/niddhogg/PvE-DPS/nidd_dps_skills_config_manual.png" style="max-width: 100%; height: auto;" alt="Skills bar manual" /><br>
+
+#### Config Gameplay Auto / Follow
+<br>
+<img src="../../../../assets/images/jobs/heros/niddhogg/PvE-DPS/nidd_dps_skills_config_auto.png" style="max-width: 100%; height: auto;" alt="Skills Bar" /><br>
+
 ### Stuff
 <br>
-<img src="../../../../assets/images/jobs/heros/thanatos/Stuff_DPS_PvE.png" style="max-width: 100%; height: auto;" alt="Stuff DPS PvE" /><br>
+<img src="../../../../assets/images/jobs/heros/niddhogg/PvE-DPS/nidd_dps_build.png" style="max-width: 100%; height: auto;" alt="Stuff DPS PvE" /><br>
 
 <div class="callout-block callout-success"><div class="icon-holder">*&nbsp;*{: .fa .fa-thumbs-up}
 </div><div class="content">
 {: .callout-title}
 #### Stuff Alternatif
 
-En end game, est altérnativement, vous pouvez utiliser une <font color="red"><b>Vodoo Armor</b></font> avec une random stat <font color="red"><b>Phy Pen 15%</b></font>. Ainsi que les <font color="red"><b>Lune's Memorial</b></font> avec la random stat <font color="red"><b>Pen 6%</b></font>.
+En end game, est altérnativement, vous pouvez utiliser une <font color="red"><b>Dreameater's Disguise</b></font> avec une random stat <font color="red"><b>M Pen 15%</b></font>. Ainsi que le <font color="red"><b>Wisdom Totem</b></font> avec la random stat <font color="red"><b>M DMG 18%</b></font>.
 
 </div></div>
 
+### Stuff - Beautiful Ensemble 
+<br>
+<p>Si vous optez pour une tail beautiful ensemble, ou utilisez un equipement/cartes qui à le même effet, vous devez modifiez vos stats pour que chacune des 6 stats ai minimum 119 points.</p>
+
+#### Stats - Beautiful Ensemble
+<br>
+<img src="../../../../assets/images/jobs/heros/niddhogg/PvE-DPS/nidd_dps_stats_beautiful.png" style="max-width: 100%; height: auto;" alt="Stats Beautiful DPS PvE" /><br>
+
+#### Stuff - Beautiful Ensemble
+<br>
+<img src="../../../../assets/images/jobs/heros/niddhogg/PvE-DPS/nidd_dps_build_beautiful.png" style="max-width: 100%; height: auto;" alt="Stuff Beautiful DPS PvE" /><br>
+
 ### Shadow Equipments
 <br>
+<img src="../../../../assets/images/jobs/heros/niddhogg/PvE-DPS/nidd_dps_shadow.png" style="max-width: 100%; height: auto;" alt="Shadow DPS PvE" /><br>
 
 ### Relics
 <br>
