@@ -67,7 +67,7 @@ Référer vous au guide <a href="../../routines/daily/daily.html#Food">Daily pou
 
 ### Les Meal A/B
 <br>
-<p>Les Meal A/B peuvent s'acheter au NPC <font color="red"><b>Item Shop</b></font>. Il existe une food par stats STR/AGI/INT/VIT/DEX/LUK, et chaque food à une durée de 30minutes, aussi elles sont stackable au niveau de la durée.</font></p>
+<p>Les Meal A/B peuvent s'acheter au NPC <font color="red"><b>Item Shop</b></font>. Il existe une food par stats STR/AGI/INT/VIT/DEX/LUK, et chaque food à une durée de 30minutes, aussi elles sont stackable au niveau de la durée.</p>
 <br>
 
 ### Food Elemental
