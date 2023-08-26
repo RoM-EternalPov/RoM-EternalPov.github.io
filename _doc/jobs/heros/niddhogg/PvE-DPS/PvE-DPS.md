@@ -51,7 +51,7 @@ color: red
 
 ### Stuff
 <br>
-<img src="../../../../assets/images/jobs/heros/niddhogg/PvE-DPS/nidd_dps_build.png" style="max-width: 100%; height: auto;" alt="Stuff DPS PvE" /><br>
+<center><img src="../../../../assets/images/jobs/heros/niddhogg/PvE-DPS/nidd_dps_build.png" style="max-width: 100%; height: auto;" alt="Stuff DPS PvE" /></center><br>
 
 <div class="callout-block callout-success"><div class="icon-holder">*&nbsp;*{: .fa .fa-thumbs-up}
 </div><div class="content">
@@ -68,15 +68,15 @@ En end game, est altérnativement, vous pouvez utiliser une <font color="red"><b
 
 #### Stats - Beautiful Ensemble
 <br>
-<img src="../../../../assets/images/jobs/heros/niddhogg/PvE-DPS/nidd_dps_stats_beautiful.png" style="max-width: 100%; height: auto;" alt="Stats Beautiful DPS PvE" /><br>
+<center><img src="../../../../assets/images/jobs/heros/niddhogg/PvE-DPS/nidd_dps_stats_beautiful.png" style="max-width: 100%; height: auto;" alt="Stats Beautiful DPS PvE" /></center><br>
 
 #### Stuff - Beautiful Ensemble
 <br>
-<img src="../../../../assets/images/jobs/heros/niddhogg/PvE-DPS/nidd_dps_build_beautiful.png" style="max-width: 100%; height: auto;" alt="Stuff Beautiful DPS PvE" /><br>
+<center><img src="../../../../assets/images/jobs/heros/niddhogg/PvE-DPS/nidd_dps_build_beautiful.png" style="max-width: 100%; height: auto;" alt="Stuff Beautiful DPS PvE" /></center><br>
 
 ### Shadow Equipments
 <br>
-<img src="../../../../assets/images/jobs/heros/niddhogg/PvE-DPS/nidd_dps_shadow.png" style="max-width: 100%; height: auto;" alt="Shadow DPS PvE" /><br>
+<center><img src="../../../../assets/images/jobs/heros/niddhogg/PvE-DPS/nidd_dps_shadow.png" style="max-width: 100%; height: auto;" alt="Shadow DPS PvE" /></center><br>
 
 ### Relics
 <br>
@@ -103,5 +103,5 @@ Pour un Maximum de DPS, n'hésiter pas à prendre une <font color="red"><b>Exper
 
 </div></div>
 
-<img src="../../../../assets/images/jobs/heros/thanatos/food.png" style="max-width: 100%; height: auto;" alt="Food" />
+<center><img src="../../../../assets/images/jobs/heros/thanatos/food.png" style="max-width: 100%; height: auto;" alt="Food" /></center>
 
