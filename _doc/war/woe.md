@@ -1,4 +1,4 @@
-  ---
+---
 title: War of Emperium
 excerpt: Strategy, tips et plus!
 icon:
