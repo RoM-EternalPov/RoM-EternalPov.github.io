@@ -3,8 +3,8 @@ title: War of Emperium
 excerpt: Strategy, tips et plus!
 icon:
   type: fa
-  name: fa-thumbs-o-up
-color: pink
+  name: fa-empire
+color: red
 ---
 
 ## War of Emperium
