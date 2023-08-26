@@ -13,5 +13,6 @@ icon:
   name: fa-rebel
 color: blue
 navigation:
-  - /
+  - /pvp/6v6/6v6
+  - /pvp/12v12/12v12
 ---
