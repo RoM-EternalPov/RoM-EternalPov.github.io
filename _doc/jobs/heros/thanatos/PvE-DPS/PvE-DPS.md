@@ -37,7 +37,7 @@ color: red
 
 ### Stuff
 <br>
-<img src="../../../../assets/images/jobs/heros/thanatos/Stuff_DPS_PvE.png" style="max-width: 100%; height: auto;" alt="Stuff DPS PvE" /><br>
+<center><img src="../../../../assets/images/jobs/heros/thanatos/Stuff_DPS_PvE.png" style="max-width: 100%; height: auto;" alt="Stuff DPS PvE" /></center><br>
 
 <div class="callout-block callout-success"><div class="icon-holder">*&nbsp;*{: .fa .fa-thumbs-up}
 </div><div class="content">
@@ -49,7 +49,7 @@ En end game, est altérnativement, vous pouvez utiliser une <font color="red"><b
 </div></div>
 
 
-<img src="../../../../assets/images/jobs/heros/thanatos/Stuff_DPS_PvE_Alt.png" style="max-width: 100%; height: auto;" alt="Stuff Alt DPS PvE" /><br>
+<center><img src="../../../../assets/images/jobs/heros/thanatos/Stuff_DPS_PvE_Alt.png" style="max-width: 100%; height: auto;" alt="Stuff Alt DPS PvE" /></center><br>
 
 <div class="callout-block callout-success"><div class="icon-holder">*&nbsp;*{: .fa .fa-thumbs-up}
 </div><div class="content">
@@ -60,11 +60,11 @@ Si vous jouez Thanatos Water, vous devirez optez pour 2x <font color="red"><b>Fl
 
 </div></div>
 
-<img src="../../../../assets/images/jobs/heros/thanatos/Stuff_DPS_PvE_Water.png" style="max-width: 100%; height: auto;" alt="Stuff Water DPS PvE" /><br>
+<center><img src="../../../../assets/images/jobs/heros/thanatos/Stuff_DPS_PvE_Water.png" style="max-width: 100%; height: auto;" alt="Stuff Water DPS PvE" /></center><br>
 
 ### Shadow Equipments
 <br>
-<img src="../../../../assets/images/jobs/heros/thanatos/Ghost_Stuff_DPS_PvE.png" style="max-width: 100%; height: auto;" alt="Ghost Stuff DPS PvE" /><br>
+<center><img src="../../../../assets/images/jobs/heros/thanatos/Ghost_Stuff_DPS_PvE.png" style="max-width: 100%; height: auto;" alt="Ghost Stuff DPS PvE" /></center><br>
 
 ### Relics
 <br>
@@ -91,7 +91,7 @@ Pour un Maximum de DPS, n'hésiter pas à prendre une <font color="red"><b>Exper
 
 </div></div>
 
-<img src="../../../../assets/images/jobs/heros/thanatos/food.png" style="max-width: 100%; height: auto;" alt="Food" />
+<center><img src="../../../../assets/images/jobs/heros/thanatos/food.png" style="max-width: 100%; height: auto;" alt="Food" /></center><br>
 
 
 <div class="callout-block callout-info"><div class="icon-holder">*&nbsp;*{: .fa .fa-info-circle}
@@ -104,4 +104,4 @@ Pour jouer Thanatos en Water, il faut utiliser la pierre d'enchant <font color="
 </div></div>
 
 
-<img src="../../../../assets/images/jobs/heros/thanatos/food_water.png" style="max-width: 100%; height: auto;" alt="Food Water" />
+<center><img src="../../../../assets/images/jobs/heros/thanatos/food_water.png" style="max-width: 100%; height: auto;" alt="Food Water" /></center><br>
