@@ -14,10 +14,12 @@ color: orange
 <p>Il y'a aussi les plât que nous pouvons préparer, stackable 6x et valable pendant 240min une fois mangée.</p>
 
 <p>Analysons tout sa</p>
+<br>
 
 ### La Cuisine
 <br>
 <p>Pour commencer vous devez faire la quête pour débloquer votre manuel de cuisine et obtenir vos certificats de niveau 1. Pour ce faire rendez vous en cuisine pour accomplire les quêtes!</p>
+<br>
 
 #### Certificats
 <br>
@@ -28,10 +30,12 @@ color: orange
 <center><img src="../../../../assets/images/bases/foods/cuisine_cert.png" style="max-width: 100%; height: auto;" alt="Certificat Cuisine" /></center><br>
 
 <p>Pour monter vos niveau rien de plus simple, pour le certificat de cooking vous devez créer des platset pour le niveau de taste, il suffit de vous nourrire de vos plâts. Lisez les deux chapitres suivants pour savoir comment.</p>
+<br>
 
 #### Préparation
 <br>
 <p>Pour créer des plats diriger vous dans votre sac, vous y trouverer votre manuel de cuisine, utiliser le, choisissez vos plâts et cuisinez!</p>
+<br>
 
 #### Dégustation
 <br>
@@ -59,15 +63,19 @@ Pour les classes qui utilises beaucoups des skills et beaucoup de mana, celà vo
 Référer vous au guide <a href="../../routines/daily/daily.html#Food">Daily pour récolter des ingrédients rare de cuisines tous les jours!</a>
 
 </div></div>
+<br>
 
 ### Les Meal A/B
 <br>
 <p>Les Meal A/B peuvent s'acheter au NPC <font color="red"><b>Item Shop</b></font>. Il existe une food par stats STR/AGI/INT/VIT/DEX/LUK, et chaque food à une durée de 30minutes, aussi elles sont stackable au niveau de la durée.</font></p>
+<br>
 
 ### Food Elemental
 <br>
+<br>
 
 ### Autres Food
+<br>
 <br>
 
 ### GvG Food
