@@ -17,6 +17,22 @@ color: orange
 
 ### La Cuisine
 
+#### Certificats
+
+<p>Dans votre <font color="red"><b>Adventure Handbook</b></font>, dans l'onglet de cuisine, vous trouverez deux certificats, un de préparation et un de dégustation. Sur la gauche vous trouverez le niveau de ceux-ci dont le maximum est 10.</p>
+
+<p>Montez au niveau maximum le plus rapidement possible, celà est très bénéfique car il vous permet de créer votre food avec 100% de succès, celà vous permet également de stack 6x l'effet des foods!</p>
+
+<center><img src="../../../../assets/images/bases/foods/cuisine_cert.png" style="max-width: 100%; height: auto;" alt="Certificat Cuisine" /></center><br>
+
+#### Préparation
+
+#### Dégustation
+
+<p>Pour vous nourire des plats soigneusement préparer par vos soins, dirrigez vous dans votre sac, vous y trouverez une boîte marquée d'un point d'interrogation, il contient toutes vos food et vous n'avez plus qu'à mangez! Si vous êtes au niveau maximum en cuisine, vous pourrez stack un maximum de 6 food (leur effet) pour une durée de 240 minutes.</p>
+
+<center><img src="../../../../assets/images/bases/foods/cuisine_eat.png" style="max-width: 100%; height: auto;" alt="Eat Cuisine" /></center><br>
+
 ### Les Meal A/B
 
 <p>Les Meal A/B peuvent s'acheter au NPC <font color="red"><b>Item Shop</b></font>. Il existe une food par stats STR/AGI/INT/VIT/DEX/LUK, et chaque food à une durée de 30minutes, aussi elles sont stackable au niveau de la durée.</font></p>
