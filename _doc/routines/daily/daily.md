@@ -21,12 +21,6 @@ TO DO
 <br>
 <p>A faire sur les 3 persos du comptes, la daily quest est repetable sur chaque perso se qui vous recompense de mora coin. Vous pouvez utiliser des <font color="red"><b>Adventure Riceball</b></font> pour accomplir ces quetes instantanément.</p>
 
-## Pierre d'enchantement
-<br>
-<p>Dans la boutique d'enchant vous pouvez acheter des pierres pour acheter des ticket d'enchantement. Libre a vous du jusqu a quel prix vous etes prêt a les acheter, personellement je prend le premier a 30 mora gold, et les 2 prochains a 45 mora gold.</p>
-
-<center><img src="../../../assets/images/routines/daily/mora_gold_coin.png" style="max-width: 100%; height: auto;" alt="Pierre enchant mora gold" /></center><br>
-
 ## Food
 <br>
 <p>Chaque jour rendez vous à la cuisine pour faire la daily quest qui vous demande de faire un plat et de le rendre au NPC (souvent vous posseder deja le plat, donc parler lui directe pour voir si vous en avez un a rendre). Accomplir cette quête vous donnera 3 nouriture rare aléatoire.</p><br>
@@ -54,21 +48,4 @@ Cette daily quest et les achats de rare item est très importante. A ne vraiment
 <center><img src="../../../assets/images/routines/daily/cloudsea_shop_0.png" style="max-width: 100%; height: auto;" alt="Cloud Sea Shop Location" /></center><br>
 <center><img src="../../../assets/images/routines/daily/cloudsea_shop_1.png" style="max-width: 100%; height: auto;" alt="Cloud Sea Shop Riceball" /></center><br>
 
-## Runes Shop
-<br>
-<p>Libre de vos choix, mais ne dépenssez pas les Gold Medals / Contributions temps que votre Aesir n'est pas au maximum.</p>
-
-<center><img src="../../../assets/images/routines/daily/runes_shop.png" style="max-width: 100%; height: auto;" alt="Runes Shop" /></center><br>
-
-## Relics Shop
-<br>
-<p>Si vous avez pas mal de Zeny, vous pouvez prendre <font color="red"><b>24x Svartalf Normal Dust</b></font> pour les relics</p>
-
-<center><img src="../../../assets/images/routines/daily/relics_shop.png" style="max-width: 100%; height: auto;" alt="Relics Shop" /></center><br>
-
-## Brave Holy Emblem Shop
-<br>
-<p>A vos choix! Personellement j'opte pour les 2 runes Star, 10x oracle mirror crystal et le reste en praying cards</p>
-
-<center><img src="../../../assets/images/routines/daily/Brave_holy_emblem.png" style="max-width: 100%; height: auto;" alt="Brave Holy Emblem Shop" /></center><br>
 
