@@ -44,10 +44,12 @@ color: red
 #### Config Gameplay Manuel
 <br>
 <img src="../../../../assets/images/jobs/heros/niddhogg/PvE-DPS/nidd_dps_skills_config_manual.png" style="max-width: 100%; height: auto;" alt="Skills bar manual" /><br>
+<br>
 
 #### Config Gameplay Auto / Follow
 <br>
 <img src="../../../../assets/images/jobs/heros/niddhogg/PvE-DPS/nidd_dps_skills_config_auto.png" style="max-width: 100%; height: auto;" alt="Skills Bar" /><br>
+<br>
 
 ### Stuff
 <br>
