@@ -8,7 +8,7 @@ title: &site_title RoM Eternal PoV
 description: &site_description Guides Collection about Ragnarok Mobil Eternal Love (EU)
 favicon: "/assets/images/favicon.ico"
 favicon16x16: "/assets/images/favicon-16x16.png" 
-favicon32x32: "/assets/images/favicon.png" 
+favicon32x32: "/assets/images/favicon-32x32.png" 
 apple_touch_icon: "/assets/images/apple-touch-icon.png" 
 branding:
   icon:
