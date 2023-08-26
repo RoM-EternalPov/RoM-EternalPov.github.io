@@ -13,5 +13,5 @@ icon:
   name: fa-wrench
 color: pink
 navigation:
-  - /
+  - /topics/cloudsea/cloudsea
 ---
