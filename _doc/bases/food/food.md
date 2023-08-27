@@ -9,9 +9,9 @@ color: orange
 
 ## La Food
 <br>
-<p>Il existe beaucoup de type de food, les consomables comme les <font color="red"><b>Meal B</b></font>, <font color="red"><b>Expert Precision Stone</b></font>, <font color="red"><b>Les Pierres d'element</b></font> et d'autres...</p>
+<p>Il existe beaucoup de type de food, les consommables comme les <font color="red"><b>Meal's</b></font>, <font color="red"><b>Expert Precision Stone</b></font>, <font color="red"><b>Les Pierres d'element</b></font> et d'autres...</p>
 
-<p>Il y'a aussi les plât que nous pouvons préparer, stackable 6x et valable pendant 240min une fois mangée.</p>
+<p>Il y'a aussi les plât que nous pouvons préparer, stackable 6x et valable pendant 240min une fois mangé.</p>
 
 <p>Analysons tout sa</p>
 <br>
@@ -25,17 +25,22 @@ color: orange
 <br>
 <p>Dans votre <font color="red"><b>Adventure Handbook</b></font>, dans l'onglet de cuisine, vous trouverez deux certificats, un de préparation et un de dégustation. Sur la gauche vous trouverez le niveau de ceux-ci dont le maximum est 10.</p>
 
-<p>Montez au niveau maximum le plus rapidement possible, celà est très bénéfique car il vous permet de créer votre food avec 100% de succès, celà vous permet également de stack 6x l'effet des foods!</p>
+<p>Montez au niveau maximum le plus rapidement possible, celà est très bénéfique car il vous permet de créer votre food avec 100% de succès (ou presque), celà vous permet également de stack 6x l'effet des foods!</p>
 <br>
 <center><img src="../../../../assets/images/bases/foods/cuisine_cert.png" style="max-width: 100%; height: auto;" alt="Certificat Cuisine" /></center><br>
 
-<p>Pour monter vos niveau rien de plus simple, pour le certificat de cooking vous devez créer des platset pour le niveau de taste, il suffit de vous nourrire de vos plâts. Lisez les deux chapitres suivants pour savoir comment.</p>
+<p>Pour monter vos niveaux, rien de plus simple, pour le certificat de <font color="red"><b>cooking</b></font> vous devez créer des plâts, et pour le niveau de <font color="red"><b>taste</b></font>, il suffit de vous nourrire de vos plâts. Lisez les deux chapitres suivants pour savoir comment.</p>
 <br>
 
 #### Préparation
 <br>
 <p>Pour créer des plats diriger vous dans votre sac, vous y trouverer votre manuel de cuisine, utiliser le, choisissez vos plâts et cuisinez!</p>
 <br>
+<center><img src="../../../../assets/images/bases/foods/cuisine_cookbook_lvl9.png" style="max-width: 100%; height: auto;" alt="Cookbook LvL 9" /></center><br>
+<center><img src="../../../../assets/images/bases/foods/cuisine_preparation_0.png" style="max-width: 100%; height: auto;" alt="Cuisine preparation step 1" /></center><br>
+<center><img src="../../../../assets/images/bases/foods/cuisine_preparation_1.png" style="max-width: 100%; height: auto;" alt="Cuisine preparation step 2" /></center><br>
+<center><img src="../../../../assets/images/bases/foods/cuisine_preparation_2.png" style="max-width: 100%; height: auto;" alt="Cuisine preparation step 3" /></center><br>
+
 
 #### Dégustation
 <br>
@@ -49,9 +54,11 @@ color: orange
 {: .callout-title}
 #### Tips
 
-Vous pouvez préparer des milliers et des milliers de food 1 star, puis les manger par milliers. La food augmente les HP et SP discharge, c'est un petit stock qui vous redonne des HP/SP une fois franchis la barre des 40% HP/SP. 
+Vous pouvez préparer des milliers et des milliers de food 1 star, puis les manger par milliers. La food augmente les HP et SP discharge, c'est un petit stock qui vous redonne des HP/SP une fois franchis la barre des 30% HP/SP. 
 
-Pour les classes qui utilises beaucoups des skills et beaucoup de mana, celà vous permet de ne JAMAIS tombers sous les 40% SP en assumant que vous arrivez a farm assez d'ingrédient, à ce sujet regardez la bulle d'info suivante.
+<center><img src="../../../../assets/images/bases/foods/cuisine_hp_sp_discharge.png" style="max-width: 100%; height: auto;" alt="HP/SP Discharge" /></center><br>
+
+Pour les classes qui utilises beaucoups des skills et beaucoup de mana, celà vous permet de ne JAMAIS tombers sous les 30% SP en assumant que vous arrivez a farm assez d'ingrédient, à ce sujet regardez la bulle d'info suivante.
 
 </div></div>
 
