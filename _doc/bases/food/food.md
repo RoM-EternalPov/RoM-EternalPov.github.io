@@ -77,7 +77,8 @@ Pour les classes qui utilises beaucoups des skills et beaucoup de mana, celà vo
 {: .callout-title}
 #### Info
 
-Référer vous au guide <a href="../../routines/daily/daily.html#Food">Daily pour récolter des ingrédients rare de cuisines tous les jours!</a>
+Référer vous au guide des Routines / Daily, pour récolter des ingrédients rare de cuisine tous les jours!<br><br>
+<font color="red"><b>Click >> </b></font><a href="../../routines/daily/daily.html#Food">Routines : Daily - Food</a>
 
 </div></div>
 <br>
