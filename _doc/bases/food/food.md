@@ -36,6 +36,17 @@ color: orange
 <br>
 <p>Pour créer des plats diriger vous dans votre sac, vous y trouverer votre manuel de cuisine, utiliser le, choisissez vos plâts et cuisinez!</p>
 <br>
+<div class="callout-block callout-danger"><div class="icon-holder">*&nbsp;*{: .fa .fa-exclamation-triangle}
+</div><div class="content">
+{: .callout-title}
+#### Attention !
+
+Le cookbook est visuelement différent pour chaque LvL, ci dessous, vous trouverez le cookbook du LvL 9. Le LvL 10 est vert par example. 
+
+Collecte des screen pour les 10 LvL en cours...
+
+</div></div>
+<br>
 <center><img src="../../../../assets/images/bases/foods/cuisine_cookbook_lvl9.png" style="max-width: 100%; height: auto;" alt="Cookbook LvL 9" /></center><br>
 <center><img src="../../../../assets/images/bases/foods/cuisine_preparation_0.png" style="max-width: 100%; height: auto;" alt="Cuisine preparation step 1" /></center><br>
 <center><img src="../../../../assets/images/bases/foods/cuisine_preparation_1.png" style="max-width: 100%; height: auto;" alt="Cuisine preparation step 2" /></center><br>
