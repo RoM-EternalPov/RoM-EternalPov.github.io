@@ -41,6 +41,16 @@ color: orange
 <center><img src="../../../../assets/images/bases/foods/cuisine_preparation_1.png" style="max-width: 100%; height: auto;" alt="Cuisine preparation step 2" /></center><br>
 <center><img src="../../../../assets/images/bases/foods/cuisine_preparation_2.png" style="max-width: 100%; height: auto;" alt="Cuisine preparation step 3" /></center><br>
 
+<div class="callout-block callout-danger"><div class="icon-holder">*&nbsp;*{: .fa .fa-exclamation-triangle}
+</div><div class="content">
+{: .callout-title}
+#### Attention !
+
+Si vous préparer un plât qui n'a pas un taux de succès de 100%, vous risquer de créer des food... assez... spéciale. A vos risque est périle de les mangé, généralement ils vous donne un effet nefast random. Remarque, je ne crois pas avoir vu d'effet positif lier a cette food, hors qu'elle donne une quantité très minim de discharge HP/SP.
+
+<center><img src="../../../../assets/images/bases/foods/cuisine_berk.png" style="max-width: 100%; height: auto;" alt="Dek Dek Berk" /></center><br>
+
+</div></div>
 
 #### Dégustation
 <br>
@@ -72,10 +82,14 @@ Référer vous au guide <a href="../../routines/daily/daily.html#Food">Daily pou
 </div></div>
 <br>
 
-### Les Meal A/B
+### Les Meal
 <br>
 <p>Les Meal A/B peuvent s'acheter au NPC <font color="red"><b>Item Shop</b></font>. Il existe une food par stats STR/AGI/INT/VIT/DEX/LUK, et chaque food à une durée de 30minutes, aussi elles sont stackable au niveau de la durée.</p>
 <br>
+
+<p>Vous pouvez aussi y trouver des  <font color="red"><b>Hot Meal</b></font> permettant d'augmenter un storage de HP/SP comme la discharge, mais celle si s'active à 40%.</p>
+
+<center><img src="../../../../assets/images/bases/foods/cuisine_hp_sp_storage.png" style="max-width: 100%; height: auto;" alt="HP/SP Storage" /></center><br>
 
 ### Food Elemental
 <br>
